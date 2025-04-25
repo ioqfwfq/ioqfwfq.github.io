@@ -1,14 +1,21 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+
 # Site Settings
 title                    : "Junda Zhu, Ph.D."
-description              : "Neuroscientist | Working memory, neural development, computational modeling"
+description              : "Neuroscientist | Engineer"
 repository               : "ioqfwfq/ioqfwfq.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  "PQ3f2uANGh_0bWdf9FERGuRDKvtHePTs4EkbfSf0IvI"
+google_analytics_id      : 
 
 # SEO Related
-google_site_verification :  "PQ3f2uANGh_0bWdf9FERGuRDKvtHePTs4EkbfSf0IvI"
+google_site_verification : "PQ3f2uANGh_0bWdf9FERGuRDKvtHePTs4EkbfSf0IvI"
 bing_site_verification   :  # Add verification code from Bing Webmaster Tools
 baidu_site_verification  :  # Optional for Baidu
 
@@ -67,12 +74,14 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
+
 
 # Markdown Processing
 kramdown:
@@ -92,7 +101,6 @@ defaults:
       type: pages
     values:
       layout: default
-      author_profile: true
 
 # Sass/SCSS
 sass:
