@@ -12,12 +12,11 @@ repository               : "ioqfwfq/ioqfwfq.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      : 
+google_analytics_id      : "G-XXXXXXXXXX"  # Replace with your actual Google Analytics ID
 
 # SEO Related
 google_site_verification : "PQ3f2uANGh_0bWdf9FERGuRDKvtHePTs4EkbfSf0IvI"
-bing_site_verification   :  # Add verification code from Bing Webmaster Tools
-baidu_site_verification  :  # Optional for Baidu
+bing_site_verification   : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"  # Add verification code from Bing Webmaster Tools
 
 # Site Author
 author:
@@ -27,13 +26,13 @@ author:
   location         : "Los Angeles, CA"
   employer         : "Cedars-Sinai Medical Center"
   pubmed           :  # Optional: Link to PubMed search or author profile
-  googlescholar    : "https://scholar.google.com/citations?user=REPLACE_WITH_YOUR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=jzhu2023"
   email            : "jzhu.neuro@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Junda-Zhu"
-  github           : "JundaZhu"
+  researchgate     : "https://www.researchgate.net/profile/Junda-Zhu-9"
+  github           : "ioqfwfq"
   linkedin         : "jundazhu"
   dblp             :  # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0002-XXXX-XXXX"  # replace with your ORCID
+  orcid            : "https://orcid.org/0000-0002-0221-5289"
   twitter          : "@neuroJZhu"  # optional if you use Twitter
 
 # Reading Files
@@ -96,11 +95,26 @@ kramdown:
 
 # Defaults
 defaults:
+  # _pages (English)
   - scope:
       path: ""
       type: pages
     values:
       layout: default
+      author_profile: true
+      
+  # Chinese pages
+  - scope:
+      path: "_pages"
+      type: pages
+      lang: zh
+    values:
+      layout: default.zh
+      author_profile: true
+
+# URL
+url: ""  # the base hostname & protocol for your site
+baseurl: ""  # the subpath of your site, e.g. /blog
 
 # Sass/SCSS
 sass:

@@ -25,38 +25,10 @@ I am a neuroscientist with a multidisciplinary background in cognitive neuroscie
 # 🔥 News
 
 - *2024.06*: &nbsp;🎉🎉 **Starting at Cedars-Sinai Medical Center**  
-  I'm excited to begin a new chapter as a Postdoctoral Scientist in Neurosurgery at Cedars-Sinai Medical Center, where I’ll continue exploring the neural basis of cognition in the **human brain**.
+  I'm excited to begin a new chapter as a Postdoctoral Scientist in Neurosurgery at Cedars-Sinai Medical Center, where I'll continue exploring the neural basis of cognition in the **human brain**.
 
 - *2024.05*: &nbsp;🎓 **Ph.D. Awarded**  
   I have officially completed my Ph.D. in Neuroscience!
-
----
-
-<span class='anchor' id='education'></span>
-# 🎓 Education
-- **Ph.D. in Neuroscience**, Vanderbilt University, 2024  
-- **B.Sc. in Bioinformatics**, Southern University of Science & Technology, 2018
-
----
-
-<span class='anchor' id='research-interests'></span>
-# 🔬 Research Interests
-- Working memory and cognitive development
-- Neural dynamics and prefrontal cortex function
-- Multimodal neuroimaging (MRI, fMRI, DTI)
-- Cross-species comparative neuroscience
-- Machine learning models for brain–behavior prediction
-
----
-
-<span class='anchor' id='selected-publications'></span>
-# 📚 Selected Publications
-- Zhu, J., & Constantinidis, C. (2024). *Neural Circuits and Processes of Working Memory*. *Encyclopedia of the Human Brain, 2nd ed.*
-- Machado, A., Zhu, J., et al. (2024). *White Matter Microstructure and Working Memory of Macaques in Adolescence*. *Journal of Vision*.
-- Zhu, J., Zhou, X.M., et al. (2024). *Parallel signatures of cognitive maturation...* *iScience*.
-- Zhu, J., Hammond, B.M., et al. (2023). *Laminar pattern of adolescent development changes...* *Journal of Neurophysiology*.
-
-More publications available upon request or on [Google Scholar](#).
 
 ---
 
@@ -68,6 +40,25 @@ More publications available upon request or on [Google Scholar](#).
 **Experiment Design:** Psychtoolbox, PsychoPy, eye-tracking  
 **Imaging & Neurophysiology:** fMRI, DTI, AFNI, FreeSurfer, multicontact probes, optogenetics
 
+---
+
+<span class='anchor' id='education'></span>
+# 🎓 Education
+- **Ph.D. in Neuroscience**, Vanderbilt University, 2024  
+- **B.Sc. in Bioinformatics**, Southern University of Science & Technology, 2018
+
+---
+
+<span class='anchor' id='selected-publications'></span>
+# 📚 Selected Publications
+<p style="font-size:0.85em; margin-top:-10px;">Total Citations: <span id="total_cit">N/A</span></p>
+
+- Zhu, J., Constantinidis, C. (2024). *Neural Circuits and Processes of Working Memory*. *Encyclopedia of the Human Brain, 2nd ed.* <span class='show_paper_citations' data='jzhu2023:ALROH1vI_8AC'></span>
+- Machado, A., Zhu, J., et al. (2024). *White Matter Microstructure and Working Memory of Macaques in Adolescence*. *Journal of Vision*. <span class='show_paper_citations' data='jzhu2023:QEMCV1vI_8AC'></span>
+- Zhu, J., Zhou, X.M., et al. (2024). *Parallel signatures of cognitive maturation...* *iScience*. <span class='show_paper_citations' data='jzhu2023:Y7PMK1vI_8AC'></span>
+- Zhu, J., Hammond, B.M., et al. (2023). *Laminar pattern of adolescent development changes...* *Journal of Neurophysiology*. <span class='show_paper_citations' data='jzhu2023:D5SMN1vI_8AC'></span>
+
+More publications available upon request or on [Google Scholar]({{ site.author.googlescholar }}).
 
 ---
 
@@ -79,7 +70,7 @@ More publications available upon request or on [Google Scholar](#).
 
 ---
 
-*Download my full CV [here](assets/E1_CV_202412.html)*
+*Download my full CV [here](assets/E1_CV_202412.html){:target="_blank"}*
 
 
 
