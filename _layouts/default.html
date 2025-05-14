@@ -7,13 +7,44 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    <style>
+      .language-toggle {
+        position: fixed;
+        top: 15px;
+        right: 20px;
+        z-index: 1000;
+      }
+      .language-toggle a {
+        text-decoration: none;
+        padding: 5px 10px;
+        border-radius: 4px;
+        border: 1px solid #ddd;
+        color: #333;
+        font-size: 0.9em;
+        background-color: #f8f9fa;
+        display: inline-block;
+      }
+      .language-toggle a:hover {
+        background-color: #e9ecef;
+      }
+      
+      @media screen and (max-width: 600px) {
+        .language-toggle {
+          top: 10px;
+          right: 10px;
+        }
+        .language-toggle a {
+          padding: 4px 8px;
+          font-size: 0.8em;
+        }
+      }
+    </style>
   </head>
 
   <body>
 
-    <div class="language-toggle" style="position: absolute; top: 10px; right: 20px; z-index: 1000;">
-      <a href="/" style="text-decoration: none; padding: 5px 10px; margin-right: 5px; border-radius: 4px; border: 1px solid #ddd; color: #333; font-size: 0.9em; font-weight: bold; background-color: #f8f9fa;">🇺🇸 EN</a>
-      <a href="/zh/" style="text-decoration: none; padding: 5px 10px; border-radius: 4px; border: 1px solid #ddd; color: #333; font-size: 0.9em; background-color: #f8f9fa;">🇨🇳 中文</a>
+    <div class="language-toggle">
+      <a href="/zh/">🇨🇳 中文</a>
     </div>
 
     {% include browser-upgrade.html %}
