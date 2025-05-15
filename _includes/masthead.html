@@ -5,8 +5,8 @@
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
           {% if page.url contains '/zh/' %}
-            <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
-              <a href="/zh/contact/" style="font-weight: 600; color: #1A73E8;">
+            <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item contact-button-container">
+              <a href="/zh/contact/" class="contact-button">
                 <i class="fas fa-envelope" style="margin-right: 5px;"></i>联系方式
               </a>
             </li>
@@ -14,8 +14,8 @@
               <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
             {% endfor %}
           {% else %}
-            <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
-              <a href="/contact/" style="font-weight: 600; color: #1A73E8;">
+            <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item contact-button-container">
+              <a href="/contact/" class="contact-button">
                 <i class="fas fa-envelope" style="margin-right: 5px;"></i>Contact
               </a>
             </li>
@@ -29,3 +29,71 @@
     </div>
   </div>
 </div>
+
+<style>
+  /* Make sure the Contact button is always visible */
+  .contact-button {
+    font-weight: 600 !important;
+    color: #1A73E8 !important;
+    white-space: nowrap;
+    display: flex !important;
+    align-items: center !important;
+  }
+  
+  .contact-button-container {
+    /* Force the contact button to always be visible */
+    display: block !important;
+    min-width: auto !important;
+    flex-shrink: 0 !important;
+    order: -1 !important; /* Ensure it's the first item */
+  }
+  
+  @media screen and (max-width: 600px) {
+    /* Fix for very narrow screens */
+    .masthead__menu-item--lg a {
+      padding: 10px 8px !important;
+      font-size: 0.95em !important;
+    }
+    
+    .contact-button i {
+      margin-right: 0 !important;
+    }
+    
+    /* Make the menu items wrap better */
+    .visible-links {
+      flex-wrap: wrap !important;
+    }
+    
+    /* Ensure the dropdown doesn't cover other elements */
+    .greedy-nav .visible-links {
+      min-width: 140px !important;
+    }
+    
+    /* Reduce padding in menu items for narrow screens */
+    .masthead__menu-item a {
+      padding: 10px 5px !important;
+    }
+    
+    /* Adjust hamburger menu position */
+    .greedy-nav button {
+      margin-right: 4px !important;
+      padding-right: 4px !important;
+    }
+  }
+  
+  /* For extremely narrow screens */
+  @media screen and (max-width: 320px) {
+    .contact-button span {
+      display: none !important; /* Hide the text, show only icon */
+    }
+    
+    .contact-button i {
+      margin-right: 0 !important;
+      font-size: 1.2em !important;
+    }
+    
+    .contact-button {
+      padding: 10px !important;
+    }
+  }
+</style>
