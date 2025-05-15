@@ -21,9 +21,6 @@ main:
   - title: "Outreach"
     url: "#outreach-service"
 
-  - title: "Contact"
-    url: "/contact/"
-
 # Chinese navigation
 main-zh:
   - title: "关于我"
@@ -46,7 +43,4 @@ main-zh:
 
   - title: "社区服务"
     url: "/zh/#outreach-service"
-
-  - title: "联系方式"
-    url: "/zh/contact/"
 
