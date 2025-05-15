@@ -10,7 +10,8 @@
   <div class="how-made-content">
     {% if page.url contains '/zh/' %}
       <h3>关于本网站</h3>
-      <p>这个学术个人网站使用以下技术构建：</p>
+      <p><strong>由Junda Zhu开发</strong></p>
+      <p>使用以下技术构建：</p>
       <ul>
         <li><strong>Jekyll</strong> - 静态网站生成器</li>
         <li><strong>GitHub Pages</strong> - 托管平台</li>
@@ -25,6 +26,9 @@
         <a href="https://github.com/ioqfwfq/ioqfwfq.github.io/blob/main/README.md" target="_blank" rel="noopener">
           <i class="fas fa-book"></i> 阅读文档
         </a>
+        <a href="/zh/contact/" class="contact-link">
+          <i class="fas fa-envelope"></i> 欢迎联系我
+        </a>
       </p>
       
       <p class="how-made-credit">
@@ -36,6 +40,7 @@
       </div>
     {% else %}
       <h3>About This Website</h3>
+      <p><strong>Developed by Junda Zhu</strong></p>
       <p>This personal academic website was built using:</p>
       <ul>
         <li><strong>Jekyll</strong> - Static site generator</li>
@@ -50,6 +55,9 @@
         </a>
         <a href="https://github.com/ioqfwfq/ioqfwfq.github.io/blob/main/README.md" target="_blank" rel="noopener">
           <i class="fas fa-book"></i> Read Documentation
+        </a>
+        <a href="/contact/" class="contact-link">
+          <i class="fas fa-envelope"></i> Feel free to contact me
         </a>
       </p>
       
@@ -149,6 +157,16 @@
   .how-made-links a:hover {
     background-color: #e8eeff;
     color: #3a5bcb;
+  }
+  
+  .contact-link {
+    background-color: #e7f5ff !important;
+    color: #0c7cd5 !important;
+  }
+  
+  .contact-link:hover {
+    background-color: #d0ebff !important;
+    color: #0a66c2 !important;
   }
   
   .how-made-links a i {
