@@ -73,6 +73,13 @@ This site features automatic updating of Google Scholar citations through GitHub
 - `_data/`: Data files for the site
 - `_config.yml`: Site configuration
 
+## Credits and Acknowledgements
+
+- Base template: [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io)
+- Website enhancements and features were improved with assistance from [Claude](https://www.anthropic.com/claude) by Anthropic
+- Search engine optimization implemented with Claude's guidance
+- Navigation and UI improvements by Claude
+
 ## License
 
 The website is built on [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io) and is influenced by:

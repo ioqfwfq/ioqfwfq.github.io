@@ -1,0 +1,221 @@
+<div id="how-made-widget" class="how-made-widget">
+  <div class="how-made-toggle" onclick="toggleHowMade()">
+    <i class="fas fa-code"></i>
+    {% if page.url contains '/zh/' %}
+      <span>网站构建信息</span>
+    {% else %}
+      <span>How I Made This Website</span>
+    {% endif %}
+  </div>
+  <div class="how-made-content">
+    {% if page.url contains '/zh/' %}
+      <h3>关于本网站</h3>
+      <p>这个学术个人网站使用以下技术构建：</p>
+      <ul>
+        <li><strong>Jekyll</strong> - 静态网站生成器</li>
+        <li><strong>GitHub Pages</strong> - 托管平台</li>
+        <li><strong>AcadHomepage</strong> - 基础模板</li>
+      </ul>
+      <p>网站特色包括自动更新谷歌学术引用、响应式设计和搜索引擎优化。</p>
+      
+      <p class="how-made-links">
+        <a href="https://github.com/ioqfwfq/ioqfwfq.github.io" target="_blank" rel="noopener">
+          <i class="fab fa-github"></i> 在GitHub上查看源码
+        </a>
+        <a href="https://github.com/ioqfwfq/ioqfwfq.github.io/blob/main/README.md" target="_blank" rel="noopener">
+          <i class="fas fa-book"></i> 阅读文档
+        </a>
+      </p>
+      
+      <p class="how-made-credit">
+        由Anthropic的<a href="https://www.anthropic.com/claude" target="_blank" rel="noopener">Claude AI</a>协助开发
+      </p>
+      
+      <div class="how-made-close" onclick="toggleHowMade()">
+        <i class="fas fa-times"></i> 关闭
+      </div>
+    {% else %}
+      <h3>About This Website</h3>
+      <p>This personal academic website was built using:</p>
+      <ul>
+        <li><strong>Jekyll</strong> - Static site generator</li>
+        <li><strong>GitHub Pages</strong> - Hosting platform</li>
+        <li><strong>AcadHomepage</strong> - Base template</li>
+      </ul>
+      <p>The website features automatic update of Google Scholar citations, responsive design, and SEO optimization.</p>
+      
+      <p class="how-made-links">
+        <a href="https://github.com/ioqfwfq/ioqfwfq.github.io" target="_blank" rel="noopener">
+          <i class="fab fa-github"></i> View Source on GitHub
+        </a>
+        <a href="https://github.com/ioqfwfq/ioqfwfq.github.io/blob/main/README.md" target="_blank" rel="noopener">
+          <i class="fas fa-book"></i> Read Documentation
+        </a>
+      </p>
+      
+      <p class="how-made-credit">
+        Enhanced with assistance from <a href="https://www.anthropic.com/claude" target="_blank" rel="noopener">Claude AI</a> by Anthropic
+      </p>
+      
+      <div class="how-made-close" onclick="toggleHowMade()">
+        <i class="fas fa-times"></i> Close
+      </div>
+    {% endif %}
+  </div>
+</div>
+
+<style>
+  .how-made-widget {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  
+  .how-made-toggle {
+    background-color: #4a6ee0;
+    color: white;
+    padding: 12px 18px;
+    border-radius: 30px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    cursor: pointer;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    transition: all 0.3s ease;
+  }
+  
+  .how-made-toggle:hover {
+    background-color: #3a5bcb;
+    transform: translateY(-2px);
+  }
+  
+  .how-made-toggle i {
+    margin-right: 8px;
+  }
+  
+  .how-made-content {
+    display: none;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 320px;
+    box-shadow: 0 5px 25px rgba(0,0,0,0.18);
+    margin-bottom: 10px;
+    font-size: 14px;
+    line-height: 1.6;
+  }
+  
+  .how-made-content h3 {
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 18px;
+    color: #333;
+  }
+  
+  .how-made-content p {
+    margin: 12px 0;
+    color: #444;
+  }
+  
+  .how-made-content ul {
+    padding-left: 20px;
+    margin: 12px 0;
+  }
+  
+  .how-made-content li {
+    margin-bottom: 5px;
+  }
+  
+  .how-made-links {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 15px;
+  }
+  
+  .how-made-links a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #4a6ee0;
+    padding: 8px 12px;
+    border-radius: 5px;
+    background-color: #f5f7ff;
+    transition: all 0.2s ease;
+  }
+  
+  .how-made-links a:hover {
+    background-color: #e8eeff;
+    color: #3a5bcb;
+  }
+  
+  .how-made-links a i {
+    margin-right: 8px;
+  }
+  
+  .how-made-credit {
+    font-size: 12px;
+    color: #777;
+    margin-top: 15px;
+    padding-top: 10px;
+    border-top: 1px solid #eee;
+  }
+  
+  .how-made-credit a {
+    color: #4a6ee0;
+    text-decoration: none;
+  }
+  
+  .how-made-close {
+    text-align: center;
+    margin-top: 15px;
+    padding: 8px;
+    cursor: pointer;
+    color: #666;
+    font-size: 13px;
+  }
+  
+  .how-made-close:hover {
+    color: #333;
+  }
+  
+  @media screen and (max-width: 600px) {
+    .how-made-widget {
+      bottom: 15px;
+      right: 15px;
+    }
+    
+    .how-made-toggle {
+      padding: 10px 15px;
+      font-size: 12px;
+    }
+    
+    .how-made-content {
+      width: 280px;
+      padding: 15px;
+    }
+  }
+</style>
+
+<script>
+  function toggleHowMade() {
+    const content = document.querySelector('.how-made-content');
+    const toggle = document.querySelector('.how-made-toggle');
+    
+    if (content.style.display === 'block') {
+      content.style.display = 'none';
+      toggle.style.display = 'flex';
+    } else {
+      content.style.display = 'block';
+      toggle.style.boxShadow = '0 2px 8px rgba(0,0,0,0.1)';
+    }
+  }
+  
+  // Initialize on page load
+  document.addEventListener('DOMContentLoaded', function() {
+    const content = document.querySelector('.how-made-content');
+    content.style.display = 'none';
+  });
+</script> 
