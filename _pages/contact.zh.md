@@ -10,7 +10,7 @@ author_profile: true
   <h1>联系我</h1>
   
   <p style="font-size: 1.1em; line-height: 1.6; margin-bottom: 30px;">
-    对我的研究有疑问？有兴趣合作？<br>
+    对我有疑问？有兴趣合作？<br>
     请通过邮箱 <strong>junda.zhu@cshs.org</strong> 联系我。<br>
     也可以通过下方的其他方式与我取得联系。
   </p>
@@ -26,7 +26,7 @@ author_profile: true
         </a>
       </li>
       <li style="margin-bottom: 10px;">
-        <a href="{{ site.author.twitter | prepend: 'https://twitter.com/' }}" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #333;">
+        <a href="https://twitter.com/JundaZhu" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #333;">
           <span style="background-color: #1DA1F2; color: white; border-radius: 50%; width: 30px; height: 30px; display: inline-flex; justify-content: center; align-items: center; margin-right: 10px;"><i class="fab fa-twitter"></i></span>
           Twitter(X)
         </a>

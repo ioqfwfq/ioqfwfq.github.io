@@ -10,7 +10,7 @@ author_profile: true
   <h1>Get in Touch</h1>
   
   <p style="font-size: 1.1em; line-height: 1.6; margin-bottom: 30px;">
-    Have a question about my research? Interested in collaboration? <br>
+    Have a question about me? Interested in connecting? <br>
     Please email me at <strong>junda.zhu@cshs.org</strong>.<br>
     You can also connect with me via the links below.
   </p>
@@ -26,7 +26,7 @@ author_profile: true
         </a>
       </li>
       <li style="margin-bottom: 10px;">
-        <a href="{{ site.author.twitter | prepend: 'https://twitter.com/' }}" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #333;">
+        <a href="https://twitter.com/JundaZhu" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #333;">
           <span style="background-color: #1DA1F2; color: white; border-radius: 50%; width: 30px; height: 30px; display: inline-flex; justify-content: center; align-items: center; margin-right: 10px;"><i class="fab fa-twitter"></i></span>
           Twitter
         </a>
