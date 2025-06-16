@@ -15,33 +15,45 @@ author_profile: true
     <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>。
   </p>
   
-  <form action="https://formspree.io/f/REPLACE_WITH_YOUR_FORMSPREE_ENDPOINT" method="POST" style="display: grid; gap: 20px; margin-top: 20px;">
+  <form id="contact-form-zh" style="display: grid; gap: 20px; margin-top: 20px;">
     <div style="display: flex; gap: 20px;">
       <div style="flex: 1;">
-        <label for="name" style="display: block; margin-bottom: 5px; font-weight: bold;">姓名</label>
-        <input type="text" name="name" id="name" required style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px;">
+        <label for="name-zh" style="display: block; margin-bottom: 5px; font-weight: bold;">姓名</label>
+        <input type="text" name="name" id="name-zh" required style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px;">
       </div>
       <div style="flex: 1;">
-        <label for="email" style="display: block; margin-bottom: 5px; font-weight: bold;">邮箱</label>
-        <input type="email" name="_replyto" id="email" required style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px;">
+        <label for="email-zh" style="display: block; margin-bottom: 5px; font-weight: bold;">邮箱</label>
+        <input type="email" name="email" id="email-zh" required style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px;">
       </div>
     </div>
     
     <div>
-      <label for="subject" style="display: block; margin-bottom: 5px; font-weight: bold;">主题</label>
-      <input type="text" name="subject" id="subject" required style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px;">
+      <label for="subject-zh" style="display: block; margin-bottom: 5px; font-weight: bold;">主题</label>
+      <input type="text" name="subject" id="subject-zh" required style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px;">
     </div>
     
     <div>
-      <label for="message" style="display: block; margin-bottom: 5px; font-weight: bold;">留言内容</label>
-      <textarea name="message" id="message" rows="6" required style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px;"></textarea>
+      <label for="message-zh" style="display: block; margin-bottom: 5px; font-weight: bold;">留言内容</label>
+      <textarea name="message" id="message-zh" rows="6" required style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px;"></textarea>
     </div>
-    
-    <input type="hidden" name="_subject" value="New website contact from {{ site.title }}">
-    <input type="text" name="_gotcha" style="display: none;">
     
     <button type="submit" style="background-color: #4b6584; color: white; padding: 12px 20px; border: none; border-radius: 4px; cursor: pointer; font-weight: bold; transition: background-color 0.3s;">发送留言</button>
   </form>
+  
+  <script>
+    document.getElementById('contact-form-zh').addEventListener('submit', function(e) {
+      e.preventDefault();
+      
+      const name = document.getElementById('name-zh').value;
+      const email = document.getElementById('email-zh').value;
+      const subject = document.getElementById('subject-zh').value;
+      const message = document.getElementById('message-zh').value;
+      
+      const mailtoLink = `mailto:{{ site.author.email }}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(`姓名: ${name}\n邮箱: ${email}\n\n留言内容:\n${message}`)}`;
+      
+      window.location.href = mailtoLink;
+    });
+  </script>
   
   <div style="margin-top: 50px; padding-top: 20px; border-top: 1px solid #eee;">
     <h2>其他联系方式</h2>
