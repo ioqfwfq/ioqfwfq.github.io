@@ -10,50 +10,10 @@ author_profile: true
   <h1>联系我</h1>
   
   <p style="font-size: 1.1em; line-height: 1.6; margin-bottom: 30px;">
-    对我的研究有疑问？有兴趣合作？
-    请随时通过以下表单或邮件联系我
-    <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>。
+    对我的研究有疑问？有兴趣合作？<br>
+    请通过邮箱 <strong>junda.zhu@cshs.org</strong> 联系我。<br>
+    也可以通过下方的其他方式与我取得联系。
   </p>
-  
-  <form id="contact-form-zh" style="display: grid; gap: 20px; margin-top: 20px;">
-    <div style="display: flex; gap: 20px;">
-      <div style="flex: 1;">
-        <label for="name-zh" style="display: block; margin-bottom: 5px; font-weight: bold;">姓名</label>
-        <input type="text" name="name" id="name-zh" required style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px;">
-      </div>
-      <div style="flex: 1;">
-        <label for="email-zh" style="display: block; margin-bottom: 5px; font-weight: bold;">邮箱</label>
-        <input type="email" name="email" id="email-zh" required style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px;">
-      </div>
-    </div>
-    
-    <div>
-      <label for="subject-zh" style="display: block; margin-bottom: 5px; font-weight: bold;">主题</label>
-      <input type="text" name="subject" id="subject-zh" required style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px;">
-    </div>
-    
-    <div>
-      <label for="message-zh" style="display: block; margin-bottom: 5px; font-weight: bold;">留言内容</label>
-      <textarea name="message" id="message-zh" rows="6" required style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px;"></textarea>
-    </div>
-    
-    <button type="submit" style="background-color: #4b6584; color: white; padding: 12px 20px; border: none; border-radius: 4px; cursor: pointer; font-weight: bold; transition: background-color 0.3s;">发送留言</button>
-  </form>
-  
-  <script>
-    document.getElementById('contact-form-zh').addEventListener('submit', function(e) {
-      e.preventDefault();
-      
-      const name = document.getElementById('name-zh').value;
-      const email = document.getElementById('email-zh').value;
-      const subject = document.getElementById('subject-zh').value;
-      const message = document.getElementById('message-zh').value;
-      
-      const mailtoLink = `mailto:{{ site.author.email }}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(`姓名: ${name}\n邮箱: ${email}\n\n留言内容:\n${message}`)}`;
-      
-      window.location.href = mailtoLink;
-    });
-  </script>
   
   <div style="margin-top: 50px; padding-top: 20px; border-top: 1px solid #eee;">
     <h2>其他联系方式</h2>

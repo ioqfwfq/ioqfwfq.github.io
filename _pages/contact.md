@@ -10,50 +10,10 @@ author_profile: true
   <h1>Get in Touch</h1>
   
   <p style="font-size: 1.1em; line-height: 1.6; margin-bottom: 30px;">
-    Have a question about my research? Interested in collaboration? 
-    Please feel free to reach out using the form below or via email 
-    at <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>.
+    Have a question about my research? Interested in collaboration? <br>
+    Please email me at <strong>junda.zhu@cshs.org</strong>.<br>
+    You can also connect with me via the links below.
   </p>
-  
-  <form id="contact-form" style="display: grid; gap: 20px; margin-top: 20px;">
-    <div style="display: flex; gap: 20px;">
-      <div style="flex: 1;">
-        <label for="name" style="display: block; margin-bottom: 5px; font-weight: bold;">Name</label>
-        <input type="text" name="name" id="name" required style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px;">
-      </div>
-      <div style="flex: 1;">
-        <label for="email" style="display: block; margin-bottom: 5px; font-weight: bold;">Email</label>
-        <input type="email" name="email" id="email" required style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px;">
-      </div>
-    </div>
-    
-    <div>
-      <label for="subject" style="display: block; margin-bottom: 5px; font-weight: bold;">Subject</label>
-      <input type="text" name="subject" id="subject" required style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px;">
-    </div>
-    
-    <div>
-      <label for="message" style="display: block; margin-bottom: 5px; font-weight: bold;">Message</label>
-      <textarea name="message" id="message" rows="6" required style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px;"></textarea>
-    </div>
-    
-    <button type="submit" style="background-color: #4b6584; color: white; padding: 12px 20px; border: none; border-radius: 4px; cursor: pointer; font-weight: bold; transition: background-color 0.3s;">Send Message</button>
-  </form>
-  
-  <script>
-    document.getElementById('contact-form').addEventListener('submit', function(e) {
-      e.preventDefault();
-      
-      const name = document.getElementById('name').value;
-      const email = document.getElementById('email').value;
-      const subject = document.getElementById('subject').value;
-      const message = document.getElementById('message').value;
-      
-      const mailtoLink = `mailto:{{ site.author.email }}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(`Name: ${name}\nEmail: ${email}\n\nMessage:\n${message}`)}`;
-      
-      window.location.href = mailtoLink;
-    });
-  </script>
   
   <div style="margin-top: 50px; padding-top: 20px; border-top: 1px solid #eee;">
     <h2>Alternative Contact Methods</h2>
