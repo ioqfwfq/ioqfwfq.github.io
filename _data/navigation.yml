@@ -9,9 +9,6 @@ main:
   - title: "Publications"
     url: "/publications/"
 
-  - title: "Contact"
-    url: "/contact/"
-
 # Chinese navigation
 main-zh:
   - title: "首页"
@@ -22,7 +19,4 @@ main-zh:
 
   - title: "论文发表"
     url: "/publications/"
-
-  - title: "联系方式"
-    url: "/zh/contact/"
 
