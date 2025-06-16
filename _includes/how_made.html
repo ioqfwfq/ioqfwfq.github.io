@@ -10,29 +10,29 @@
   <div class="how-made-content">
     {% if page.url contains '/zh/' %}
       <h3>关于本网站</h3>
-      <p><strong>由Junda Zhu开发</strong></p>
-      <p>使用以下技术构建：</p>
+      <p><strong>开发者：朱君达</strong></p>
+      <p>本个人网站使用以下技术构建：</p>
       <ul>
         <li><strong>Jekyll</strong> - 静态网站生成器</li>
-        <li><strong>GitHub Pages</strong> - 托管平台</li>
-        <li><strong>AcadHomepage</strong> - 基础模板</li>
+        <li><strong>GitHub Pages</strong> - 网站托管平台</li>
+        <li><strong>AcadHomepage</strong> - 学术网站模板</li>
       </ul>
-      <p>网站特色包括自动更新谷歌学术引用、响应式设计和搜索引擎优化。</p>
+      <p>网站特点：自动更新谷歌学术引用数据、响应式设计适配各种设备、搜索引擎优化。</p>
       
       <p class="how-made-links">
         <a href="https://github.com/ioqfwfq/ioqfwfq.github.io" target="_blank" rel="noopener">
-          <i class="fab fa-github"></i> 在GitHub上查看源码
+          <i class="fab fa-github"></i> 查看源代码
         </a>
         <a href="https://github.com/ioqfwfq/ioqfwfq.github.io/blob/main/README.md" target="_blank" rel="noopener">
-          <i class="fas fa-book"></i> 阅读文档
+          <i class="fas fa-book"></i> 查看文档
         </a>
         <a href="/zh/contact/" class="contact-link">
-          <i class="fas fa-envelope"></i> 欢迎联系我
+          <i class="fas fa-envelope"></i> 联系我
         </a>
       </p>
       
       <p class="how-made-credit">
-        由Anthropic的<a href="https://www.anthropic.com/claude" target="_blank" rel="noopener">Claude AI</a>协助开发
+        在 <a href="https://www.anthropic.com/claude" target="_blank" rel="noopener">Claude AI</a> 的协助下开发
       </p>
       
       <div class="how-made-close" onclick="toggleHowMade()">
@@ -41,7 +41,7 @@
     {% else %}
       <h3>About This Website</h3>
       <p><strong>Developed by Junda Zhu</strong></p>
-      <p>This personal academic website was built using:</p>
+      <p>This personal website was built using:</p>
       <ul>
         <li><strong>Jekyll</strong> - Static site generator</li>
         <li><strong>GitHub Pages</strong> - Hosting platform</li>
@@ -208,11 +208,36 @@
     .how-made-toggle {
       padding: 10px 15px;
       font-size: 12px;
+      max-width: 100vw;
+      white-space: nowrap;
+      overflow: hidden;
     }
     
     .how-made-content {
       width: 280px;
       padding: 15px;
+      max-width: 90vw;
+      right: 0;
+    }
+    
+    /* Adjust the padding and layout for tiny screens */
+    @media screen and (max-width: 320px) {
+      .how-made-toggle {
+        padding: 8px 12px;
+        font-size: 11px;
+      }
+      
+      .how-made-toggle span {
+        max-width: 120px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+      
+      .how-made-content {
+        width: 250px;
+        padding: 12px;
+      }
     }
   }
 </style>

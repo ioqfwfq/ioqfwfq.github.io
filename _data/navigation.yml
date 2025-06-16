@@ -1,46 +1,28 @@
 # main links
 main:
-  - title: "About Me"
-    url: "#about-me"
+  - title: "Home"
+    url: "/"
 
-  - title: "News"
-    url: "#news"
-
-  - title: "Skills"
-    url: "#technical-skills"
-
-  - title: "Education"
-    url: "#education"
-
-  - title: "Research Projects"
-    url: "/projects/"
+  - title: "Research"
+    url: "/research/"
 
   - title: "Publications"
-    url: "#selected-publications"
+    url: "/publications/"
 
-  - title: "Outreach"
-    url: "#outreach-service"
+  - title: "Contact"
+    url: "/contact/"
 
 # Chinese navigation
 main-zh:
-  - title: "关于我"
-    url: "/zh/#about-me"
+  - title: "首页"
+    url: "/zh/"
 
-  - title: "最新动态"
-    url: "/zh/#news"
+  - title: "研究"
+    url: "/research/"
 
-  - title: "技术技能"
-    url: "/zh/#technical-skills"
+  - title: "论文发表"
+    url: "/publications/"
 
-  - title: "教育经历"
-    url: "/zh/#education"
-
-  - title: "研究项目"
-    url: "/projects/"
-
-  - title: "代表性论文"
-    url: "/zh/#selected-publications"
-
-  - title: "社区服务"
-    url: "/zh/#outreach-service"
+  - title: "联系方式"
+    url: "/zh/contact/"
 
