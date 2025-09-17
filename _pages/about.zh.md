@@ -77,6 +77,12 @@ redirect_from:
     
     <div class="news-grid">
       <div class="news-item">
+        <div class="news-date">2024年12月</div>
+        <h4>担任《The Innovation Life》期刊编辑</h4>
+        <p>受邀担任《The Innovation Life》期刊编辑</p>
+      </div>
+      
+      <div class="news-item">
         <div class="news-date">2024年6月</div>
         <h4>加入西达赛奈医学中心</h4>
         <p>以博士后科学家的身份加入神经外科，专注于人类大脑研究和临床应用</p>

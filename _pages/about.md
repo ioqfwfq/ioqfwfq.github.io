@@ -76,6 +76,12 @@ redirect_from:
     
     <div class="news-grid">
       <div class="news-item">
+        <div class="news-date">December 2024</div>
+        <h4>Editorial Appointment at The Innovation Life</h4>
+        <p>Honored to join as an editor for The Innovation Life journal.</p>
+      </div>
+      
+      <div class="news-item">
         <div class="news-date">June 2024</div>
         <h4>Starting at Cedars-Sinai Medical Center</h4>
         <p>Excited to begin a new chapter as a Postdoctoral Scientist in Neurosurgery, focusing on human brain research and clinical applications.</p>
