@@ -26,7 +26,7 @@ redirect_from:
       <p class="hero-location">洛杉矶，加利福尼亚州</p>
       
       <div class="hero-cta">
-        <a href="assets/E1_CV_cn.html" target="_blank" class="btn-primary">
+        <a href="assets/E1_CV_cn_202509.html" target="_blank" class="btn-primary">
           <i class="fas fa-download"></i> 下载简历
         </a>
         <a href="/zh/contact/" class="btn-secondary">
