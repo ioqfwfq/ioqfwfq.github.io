@@ -26,7 +26,7 @@ redirect_from:
       <p class="hero-location">Los Angeles, CA</p>
       
       <div class="hero-cta">
-        <a href="assets/E1_CV_202509.html" target="_blank" class="btn-primary">
+        <a href="assets/Junda_Zhu_CV_20251015.html" target="_blank" class="btn-primary">
           <i class="fas fa-download"></i> Download CV
         </a>
         <a href="/contact/" class="btn-secondary">
