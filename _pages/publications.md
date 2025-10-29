@@ -28,7 +28,7 @@ author_profile: true
     <h2>Peer-Reviewed Publications</h2>
     
     <div class="publication-item">
-      <div class="pub-year">2024</div>
+      <div class="pub-year">2025</div>
       <div class="pub-content">
         <h3>Brain structure and activity predicting cognitive maturation in adolescence</h3>
         <p class="pub-authors"><strong>Zhu, J.</strong>, Garin, C.M., Qi, X.-L., Machado, A., Constantinidis, C., et al.</p>

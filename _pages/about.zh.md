@@ -77,6 +77,15 @@ redirect_from:
     
     <div class="news-grid">
       <div class="news-item">
+        <div class="news-date">2025年10月</div>
+        <h4>论文发表于《Nature Neuroscience》</h4>
+        <p>
+          发表论文：纵向测量恒河猴青少年时期脑结构与活动预测认知成熟。
+          <a href="https://www.nature.com/articles/s41593-025-02076-0" target="_blank">阅读原文</a>
+        </p>
+      </div>
+      
+      <div class="news-item">
         <div class="news-date">2024年12月</div>
         <h4>担任《The Innovation Life》期刊编辑</h4>
         <p>受邀担任《The Innovation Life》期刊编辑</p>

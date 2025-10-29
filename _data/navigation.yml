@@ -3,11 +3,23 @@ main:
   - title: "Home"
     url: "/"
 
-  - title: "Research"
-    url: "/research/"
+  - title: "About"
+    url: "/about/"
+
+  - title: "Experience"
+    url: "/experience/"
+
+  - title: "Projects"
+    url: "/projects/"
+
+  - title: "Skills"
+    url: "/skills/"
 
   - title: "Publications"
     url: "/publications/"
+
+  - title: "Contact"
+    url: "/contact/"
 
 # Chinese navigation
 main-zh:
