@@ -42,67 +42,6 @@ redirect_from:
 
  
 
-<!-- Technical Skills Preview (Core Competencies after Overview) -->
-<section class="skills-preview-section">
-  <div class="container">
-    <h2 class="section-title">Core Competencies</h2>
-    
-    <div class="skills-grid">
-      <div class="skill-category">
-        <div class="skill-icon">
-          <i class="fas fa-chart-line"></i>
-        </div>
-        <h3>Analysis & Modeling</h3>
-        <p>GAMMs, mixed-effects models, dimensionality reduction, SVM, ANN</p>
-      </div>
-      
-      <div class="skill-category">
-        <div class="skill-icon">
-          <i class="fas fa-code"></i>
-        </div>
-        <h3>Programming</h3>
-        <p>Python (pandas, sklearn, pytorch), MATLAB, R, SQL</p>
-      </div>
-      
-      <div class="skill-category">
-        <div class="skill-icon">
-          <i class="fas fa-tools"></i>
-        </div>
-        <h3>Development Tools</h3>
-        <p>Git, GitHub, SVN, Code Ocean, Pavlovia</p>
-      </div>
-      
-      <div class="skill-category">
-        <div class="skill-icon">
-          <i class="fas fa-flask"></i>
-        </div>
-        <h3>Experiment Design</h3>
-        <p>Psychtoolbox, PsychoPy, eye-tracking</p>
-      </div>
-      
-      <div class="skill-category">
-        <div class="skill-icon">
-          <i class="fas fa-brain"></i>
-        </div>
-        <h3>Neuroimaging</h3>
-        <p>fMRI, DTI, AFNI, FreeSurfer</p>
-      </div>
-      
-      <div class="skill-category">
-        <div class="skill-icon">
-          <i class="fas fa-microscope"></i>
-        </div>
-        <h3>Neurophysiology</h3>
-        <p>multicontact probes, optogenetics</p>
-      </div>
-    </div>
-    
-    <div class="cta-center">
-      <a href="/skills/" class="btn-secondary">View All Skills</a>
-    </div>
-  </div>
-</section>
-
 <!-- Professional Overview -->
 <section class="overview-section">
   <div class="container">
@@ -140,34 +79,6 @@ redirect_from:
     </div>
   </div>
 </section>
-
-<!-- Certifications -->
-<section class="overview-section">
-  <div class="container">
-    <h2 class="section-title">Certifications</h2>
-    <div class="overview-content">
-      <ul class="lead" style="text-align: left; max-width: 700px; margin: 0 auto; list-style: none; padding: 0;">
-        <li style="margin-bottom: 10px;">
-          <strong>CITI — Good Clinical Practice (GCP)</strong>
-          <br>Issued: Jun 2024 · Expires: Jun 2027 · Credential ID: 63483618
-        </li>
-        <li style="margin-bottom: 10px;">
-          <strong>CITI — Biomedical Investigators & Key Personnel (HSR)</strong>
-          <br>Issued: Jun 2024 · Expires: Jun 2034 · Credential ID: 63483617
-        </li>
-        <li style="margin-bottom: 10px;">
-          <strong>CITI — Conflicts of Interest</strong>
-          <br>Issued: Jun 2024 · Expires: Jun 2028 · Credential ID: 63483620
-        </li>
-      </ul>
-    </div>
-  </div>
-  
-</section>
-
-<!-- Quick Stats Dashboard (moved below highlights) -->
-
- 
 
 <!-- Professional Highlights -->
 <section class="highlights-section">
@@ -227,95 +138,114 @@ redirect_from:
   </div>
 </section>
 
-<!-- Technical Skills Preview -->
+<!-- Core Competencies -->
 <section class="skills-preview-section">
   <div class="container">
     <h2 class="section-title">Core Competencies</h2>
-    
-    <div class="skills-grid">
-      <div class="skill-category">
-        <div class="skill-icon">
-          <i class="fas fa-chart-line"></i>
+
+    <div class="skill-categories-grid">
+
+      <div class="skill-category-card">
+        <div class="category-header">
+          <div class="category-icon">
+            <i class="fas fa-hospital"></i>
+          </div>
+          <h3>Clinical & Translational Science</h3>
         </div>
-        <h3>Analysis & Modeling</h3>
-        <p>GAMMs, mixed-effects models, dimensionality reduction, SVM, ANN</p>
+        <ul class="skill-highlights">
+          <li>Clinical Operations & Regulatory Compliance</li>
+          <li>Clinical Outcome Measures Development</li>
+          <li>Medical Device V&V Support</li>
+          <li>Study Design & Management</li>
+        </ul>
       </div>
-      
-      <div class="skill-category">
-        <div class="skill-icon">
-          <i class="fas fa-code"></i>
+
+      <div class="skill-category-card">
+        <div class="category-header">
+          <div class="category-icon">
+            <i class="fas fa-file-alt"></i>
+          </div>
+          <h3>Scientific Communications & Strategy</h3>
         </div>
-        <h3>Programming</h3>
-        <p>Python (pandas, sklearn, pytorch), MATLAB, R, SQL</p>
+        <ul class="skill-highlights">
+          <li>Scientific Writing & Publishing (12+ papers)</li>
+          <li>Evidence Generation & Regulatory Support</li>
+          <li>Publication Planning & Congress Dissemination</li>
+          <li>Grant Contribution & Stakeholder Communication</li>
+        </ul>
       </div>
-      
-      <div class="skill-category">
-        <div class="skill-icon">
-          <i class="fas fa-tools"></i>
+
+      <div class="skill-category-card">
+        <div class="category-header">
+          <div class="category-icon">
+            <i class="fas fa-brain"></i>
+          </div>
+          <h3>Neuroscience Research Methods</h3>
         </div>
-        <h3>Development Tools</h3>
-        <p>Git, GitHub, SVN, Code Ocean, Pavlovia</p>
+        <ul class="skill-highlights">
+          <li>Neuroimaging (fMRI, DTI, structural MRI)</li>
+          <li>Neurophysiology (human & NHP recordings)</li>
+          <li>Behavioral Task Design & Deployment</li>
+          <li>Multi-modal Data Integration</li>
+        </ul>
       </div>
-      
-      <div class="skill-category">
-        <div class="skill-icon">
-          <i class="fas fa-flask"></i>
+
+      <div class="skill-category-card">
+        <div class="category-header">
+          <div class="category-icon">
+            <i class="fas fa-laptop-code"></i>
+          </div>
+          <h3>Data Science & Technology</h3>
         </div>
-        <h3>Experiment Design</h3>
-        <p>Psychtoolbox, PsychoPy, eye-tracking</p>
+        <ul class="skill-highlights">
+          <li>Advanced Statistical Modeling & Machine Learning</li>
+          <li>Programming (Python, MATLAB, R - 10+ yrs)</li>
+          <li>Reproducible Research Pipelines</li>
+          <li>Data Visualization & Communication</li>
+        </ul>
       </div>
-      
-      <div class="skill-category">
-        <div class="skill-icon">
-          <i class="fas fa-brain"></i>
-        </div>
-        <h3>Neuroimaging</h3>
-        <p>fMRI, DTI, AFNI, FreeSurfer</p>
-      </div>
-      
-      <div class="skill-category">
-        <div class="skill-icon">
-          <i class="fas fa-microscope"></i>
-        </div>
-        <h3>Neurophysiology</h3>
-        <p>multicontact probes, optogenetics</p>
-      </div>
+
     </div>
-    
+
     <div class="cta-center">
-      <a href="/skills/" class="btn-secondary">View All Skills</a>
+      <a href="/skills/" class="btn-secondary">View Detailed Skills</a>
     </div>
   </div>
 </section>
 
-<!-- Quick Stats Dashboard (moved below highlights) -->
+<!-- Stats Dashboard -->
 <section class="stats-section">
   <div class="container">
-    <h2 class="section-title">Professional Highlights</h2>
-    <div class="stats-grid">
-      <div class="stat-item">
-        <div class="stat-number" id="total_cit">N/A</div>
-        <div class="stat-label">Total Citations</div>
+    <div class="stats-compact">
+      <div class="stat-inline">
+        <i class="fas fa-quote-right"></i>
+        <span class="stat-num" id="total_cit">N/A</span>
+        <span class="stat-lbl">Citations</span>
       </div>
-      <div class="stat-item">
-        <div class="stat-number">15+</div>
-        <div class="stat-label">Publications</div>
+      <div class="stat-inline">
+        <i class="fas fa-file-alt"></i>
+        <span class="stat-num">15+</span>
+        <span class="stat-lbl">Publications</span>
       </div>
-      <div class="stat-item">
-        <div class="stat-number">10</div>
-        <div class="stat-label">Years Research</div>
+      <div class="stat-inline">
+        <i class="fas fa-award"></i>
+        <span class="stat-num">5</span>
+        <span class="stat-lbl">First Author</span>
       </div>
-      <div class="stat-item">
-        <div class="stat-number">3</div>
-        <div class="stat-label">Institutions</div>
+      <div class="stat-inline">
+        <i class="fas fa-calendar-alt"></i>
+        <span class="stat-num">10</span>
+        <span class="stat-lbl">Years</span>
       </div>
-      <div class="stat-item">
-        <div class="stat-number">5</div>
-        <div class="stat-label">First Author Papers</div>
+      <div class="stat-inline">
+        <i class="fas fa-university"></i>
+        <span class="stat-num">3</span>
+        <span class="stat-lbl">Institutions</span>
       </div>
-      <div class="stat-item">
-        <div class="stat-number">2</div>
-        <div class="stat-label">Languages</div>
+      <div class="stat-inline">
+        <i class="fas fa-globe"></i>
+        <span class="stat-num">2</span>
+        <span class="stat-lbl">Languages</span>
       </div>
     </div>
   </div>
@@ -403,6 +333,41 @@ redirect_from:
     
     <div class="cta-center">
       <a href="/projects/" class="btn-secondary">View All Projects</a>
+    </div>
+  </div>
+</section>
+
+<!-- Certifications -->
+<section class="certifications-section">
+  <div class="container">
+    <h2 class="section-title">Certifications</h2>
+    <div class="cert-list">
+      <div class="cert-item">
+        <i class="fas fa-certificate"></i>
+        <div>
+          <strong>CITI — Good Clinical Practice (GCP)</strong>
+          <span>Jun 2024 - Jun 2027 · ID: 63483618</span>
+        </div>
+      </div>
+      <div class="cert-item">
+        <i class="fas fa-certificate"></i>
+        <div>
+          <strong>CITI — Biomedical Investigators & Key Personnel (HSR)</strong>
+          <span>Jun 2024 - Jun 2034 · ID: 63483617</span>
+        </div>
+      </div>
+      <div class="cert-item">
+        <i class="fas fa-certificate"></i>
+        <div>
+          <strong>CITI — Conflicts of Interest</strong>
+          <span>Jun 2024 - Jun 2028 · ID: 63483620</span>
+        </div>
+      </div>
+    </div>
+    <div class="cta-center" style="margin-top: 24px;">
+      <a href="https://www.linkedin.com/in/jundazhu/" target="_blank" class="btn-secondary">
+        <i class="fab fa-linkedin"></i> View All Certifications on LinkedIn
+      </a>
     </div>
   </div>
 </section>
@@ -534,20 +499,20 @@ redirect_from:
 }
 
 section {
-  padding: 50px 0;
+  padding: 32px 0;
 }
 
 .section-title {
-  font-size: 2em;
+  font-size: 1.7em;
   text-align: center;
-  margin-bottom: 40px;
+  margin-bottom: 26px;
   color: #1f2937;
   font-weight: 700;
 }
 
 /* Professional Overview */
 .overview-section {
-  background: #ffffff;
+  background: #f9fafb;
 }
 
 .lead {
@@ -569,14 +534,14 @@ section {
 .value-prop {
   text-align: center;
   padding: 30px 20px;
-  background: #f9fafb;
+  background: white;
   border-radius: 15px;
   border: 1px solid #e5e7eb;
   transition: all 0.2s ease;
 }
 
 .value-prop:hover {
-  background: white;
+  background: #f9fafb;
   transform: translateY(-2px);
   box-shadow: 0 8px 16px rgba(0,0,0,0.1);
 }
@@ -605,45 +570,54 @@ section {
   line-height: 1.5;
 }
 
-/* Stats Section */
+/* Stats Section - Compact Inline Design */
 .stats-section {
-  background: #f9fafb;
+  background: #ffffff;
+  padding: 20px 0;
+  border-top: 1px solid #e5e7eb;
+  border-bottom: 1px solid #e5e7eb;
 }
 
-.stats-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-  gap: 16px;
-  text-align: center;
-  max-width: 800px;
+.stats-compact {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 24px 32px;
+  max-width: 900px;
   margin: 0 auto;
 }
 
-.stat-item {
-  background: white;
-  padding: 24px 16px;
-  border-radius: 10px;
-  border: 1px solid #e5e7eb;
+.stat-inline {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: #4b5563;
   transition: all 0.2s ease;
 }
 
-.stat-item:hover {
-  background: #f9fafb;
-  border-color: #d1d5db;
-  transform: translateY(-2px);
+.stat-inline:hover {
+  transform: translateY(-1px);
 }
 
-.stat-number {
-  font-size: 2em;
-  font-weight: 700;
+.stat-inline i {
+  font-size: 1.3em;
   color: #2563eb;
-  margin-bottom: 6px;
+  width: 24px;
+  text-align: center;
 }
 
-.stat-label {
+.stat-num {
+  font-size: 1.5em;
+  font-weight: 700;
+  color: #1f2937;
+  margin-right: 4px;
+}
+
+.stat-lbl {
+  font-size: 0.9em;
   color: #6b7280;
   font-weight: 500;
-  font-size: 0.85em;
 }
 
 /* Highlights Section */
@@ -712,53 +686,80 @@ section {
   background: #f9fafb;
 }
 
-.skills-grid {
+.skill-categories-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 16px;
-  max-width: 800px;
-  margin: 0 auto;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 24px;
+  margin-bottom: 40px;
 }
 
-.skill-category {
-  text-align: center;
-  padding: 20px 16px;
+.skill-category-card {
   background: white;
-  border-radius: 10px;
+  border-radius: 12px;
+  padding: 28px;
   border: 1px solid #e5e7eb;
-  transition: all 0.2s ease;
+  transition: all 0.3s ease;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.05);
 }
 
-.skill-category:hover {
-  background: #f9fafb;
-  transform: translateY(-2px);
-  box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+.skill-category-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 24px rgba(0,0,0,0.12);
+  border-color: #2563eb;
 }
 
-.skill-icon {
-  width: 48px;
-  height: 48px;
-  background: #2563eb;
-  border-radius: 50%;
+.category-header {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 20px;
+  padding-bottom: 16px;
+  border-bottom: 2px solid #e5e7eb;
+}
+
+.category-icon {
+  width: 56px;
+  height: 56px;
+  background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
+  border-radius: 12px;
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 0 auto 12px;
   color: white;
-  font-size: 1.4em;
+  font-size: 1.6em;
+  flex-shrink: 0;
 }
 
-.skill-category h3 {
-  margin-bottom: 8px;
+.skill-category-card h3 {
   color: #1f2937;
-  font-size: 1.1em;
-  font-weight: 600;
+  font-size: 1.15em;
+  font-weight: 700;
+  line-height: 1.3;
+  margin: 0;
 }
 
-.skill-category p {
-  color: #6b7280;
-  line-height: 1.4;
-  font-size: 0.9em;
+.skill-highlights {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.skill-highlights li {
+  color: #4b5563;
+  padding: 10px 0;
+  padding-left: 24px;
+  position: relative;
+  line-height: 1.5;
+  font-size: 0.95em;
+}
+
+.skill-highlights li:before {
+  content: "✓";
+  position: absolute;
+  left: 0;
+  color: #2563eb;
+  font-weight: bold;
+  font-size: 1.1em;
 }
 
 /* Featured Work Section */
@@ -827,6 +828,57 @@ section {
   font-size: 0.8em;
   font-weight: 500;
   margin: 0 8px 8px 0;
+}
+
+/* Certifications Section */
+.certifications-section {
+  background: #f9fafb;
+}
+
+.cert-list {
+  max-width: 700px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.cert-item {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  background: white;
+  padding: 16px 20px;
+  border-radius: 8px;
+  border: 1px solid #e5e7eb;
+  transition: all 0.2s ease;
+}
+
+.cert-item:hover {
+  border-color: #2563eb;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+.cert-item i {
+  font-size: 1.5em;
+  color: #2563eb;
+  flex-shrink: 0;
+}
+
+.cert-item div {
+  flex: 1;
+}
+
+.cert-item strong {
+  display: block;
+  color: #1f2937;
+  margin-bottom: 4px;
+  font-size: 0.95em;
+}
+
+.cert-item span {
+  color: #6b7280;
+  font-size: 0.85em;
 }
 
 /* Publications */
@@ -993,18 +1045,20 @@ section {
     gap: 20px;
   }
   
-  .stats-grid {
-    grid-template-columns: repeat(2, 1fr);
-    gap: 12px;
-    margin-bottom: 40px;
+  .stats-compact {
+    gap: 16px 24px;
   }
-  
-  .stat-item {
-    padding: 20px 16px;
+
+  .stat-inline {
+    gap: 8px;
   }
-  
-  .stat-number {
-    font-size: 2em;
+
+  .stat-num {
+    font-size: 1.3em;
+  }
+
+  .stat-lbl {
+    font-size: 0.85em;
   }
   
   .highlights-grid {
@@ -1057,23 +1111,28 @@ section {
     line-height: 1.3;
   }
   
-  .skills-grid {
+  .skill-categories-grid {
     grid-template-columns: 1fr;
     gap: 20px;
   }
-  
-  .skill-category {
+
+  .skill-category-card {
     padding: 24px 20px;
   }
-  
-  .skill-icon {
+
+  .category-header {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .category-icon {
     width: 48px;
     height: 48px;
     font-size: 1.4em;
-    margin-bottom: 16px;
   }
-  
-  .skill-category h3 {
+
+  .skill-category-card h3 {
     font-size: 1.1em;
   }
 }
