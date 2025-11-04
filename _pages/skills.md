@@ -142,29 +142,5 @@ author_profile: true
 
 </div>
 
-<style>
-.skills-page-container { max-width: 1000px; margin: 0 auto; padding: 20px; }
-.skill-section { margin-bottom: 50px; }
-.section-header {
-  font-size: 1.8em;
-  color: #1f2937;
-  margin-bottom: 25px;
-  padding-bottom: 12px;
-  border-bottom: 3px solid #2563eb;
-  font-weight: 700;
-}
-.section-header i { color: #2563eb; margin-right: 12px; }
-.skills-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 20px; }
-.skill-card { background: white; border: 1px solid #e5e7eb; border-radius: 12px; padding: 20px; box-shadow: 0 3px 10px rgba(0,0,0,0.05); transition: all 0.2s ease; }
-.skill-card:hover { transform: translateY(-2px); box-shadow: 0 8px 16px rgba(0,0,0,0.1); }
-.skill-card h3 { margin: 0 0 12px; color: #1f2937; font-size: 1.1em; font-weight: 600; }
-.skill-card h3 i { color: #2563eb; margin-right: 8px; }
-.skill-card ul { margin: 0; padding-left: 18px; color: #4b5563; line-height: 1.6; }
-.skill-card li { margin-bottom: 6px; }
-@media (max-width: 768px) {
-  .skills-grid { grid-template-columns: 1fr; }
-  .section-header { font-size: 1.4em; }
-}
-</style>
 
 

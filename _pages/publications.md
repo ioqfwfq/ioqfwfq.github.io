@@ -24,6 +24,12 @@ author_profile: true
     </div>
   </div>
 
+  <div class="google-scholar-cta">
+    <a href="{{ site.author.googlescholar }}" target="_blank" class="btn-google-scholar">
+      <i class="fas fa-graduation-cap"></i> View Full Publication List on Google Scholar
+    </a>
+  </div>
+
   <div class="publications-list">
     <h2>Peer-Reviewed Publications</h2>
     
@@ -173,141 +179,3 @@ author_profile: true
   </div>
 </div>
 
-<style>
-.publications-container {
-  max-width: 1000px;
-  margin: 0 auto;
-  padding: 20px;
-}
-
-.pub-stats {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-  gap: 30px;
-  margin: 40px 0 60px;
-  text-align: center;
-}
-
-.stat-item {
-  background: white;
-  padding: 30px 20px;
-  border-radius: 15px;
-  box-shadow: 0 5px 15px rgba(0,0,0,0.08);
-}
-
-.stat-number {
-  font-size: 2.5em;
-  font-weight: 700;
-  color: #667eea;
-  margin-bottom: 10px;
-}
-
-.stat-label {
-  color: #666;
-  font-weight: 600;
-}
-
-.publications-list h2 {
-  color: #2c3e50;
-  margin-bottom: 30px;
-  border-bottom: 2px solid #667eea;
-  padding-bottom: 10px;
-}
-
-.publication-item {
-  display: flex;
-  background: white;
-  margin-bottom: 25px;
-  border-radius: 15px;
-  overflow: hidden;
-  box-shadow: 0 5px 15px rgba(0,0,0,0.08);
-  transition: transform 0.3s ease;
-}
-
-.publication-item:hover {
-  transform: translateY(-3px);
-}
-
-.publication-item.preprint {
-  background: #f8f9fa;
-}
-
-.pub-year {
-  background: #667eea;
-  color: white;
-  padding: 30px 20px;
-  font-weight: 700;
-  font-size: 1.2em;
-  display: flex;
-  align-items: center;
-  min-width: 80px;
-  justify-content: center;
-}
-
-.preprint .pub-year {
-  background: #95a5a6;
-}
-
-.pub-content {
-  padding: 25px 30px;
-  flex: 1;
-}
-
-.pub-content h3 {
-  margin-bottom: 15px;
-  color: #2c3e50;
-  line-height: 1.3;
-}
-
-.pub-authors {
-  color: #666;
-  margin-bottom: 8px;
-  font-size: 0.95em;
-}
-
-.pub-journal {
-  color: #1976d2;
-  font-style: italic;
-  font-weight: 600;
-  margin-bottom: 15px;
-}
-
-.pub-abstract {
-  color: #555;
-  line-height: 1.5;
-  margin-bottom: 15px;
-  font-size: 0.9em;
-}
-
-.pub-links {
-  display: flex;
-  gap: 15px;
-  align-items: center;
-}
-
-.preprints-section {
-  margin-top: 60px;
-  padding-top: 40px;
-  border-top: 1px solid #eee;
-}
-
-.preprints-section h2 {
-  color: #2c3e50;
-  margin-bottom: 30px;
-}
-
-@media (max-width: 768px) {
-  .publication-item {
-    flex-direction: column;
-  }
-  
-  .pub-year {
-    min-width: auto;
-    padding: 15px;
-  }
-  
-  .pub-stats {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-</style>

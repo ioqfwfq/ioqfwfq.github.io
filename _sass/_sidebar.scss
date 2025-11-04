@@ -79,9 +79,11 @@
 }
 
 .author__avatar {
-  display: table-cell;
-  vertical-align: top;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   width: 75px;
+  flex-shrink: 0;
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -104,11 +106,11 @@
 }
 
 .author__content {
-  display: table-cell;
-  vertical-align: top;
+  display: flex;
+  flex-direction: column;
   padding-left: 10px;
   min-width: 120px;
-  // padding-right: 25px;
+  flex-grow: 1;
   line-height: 1;
 
   @include breakpoint($large) {
@@ -147,12 +149,11 @@
 
 .author__urls-wrapper {
   position: relative;
-  display: table-cell;
-  vertical-align: middle;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
   font-family: $sans-serif;
   z-index: 10;
-  position: relative;
-  margin-left: auto;
   cursor: pointer;
 
   li:last-child {
