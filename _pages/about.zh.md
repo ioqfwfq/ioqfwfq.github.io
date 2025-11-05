@@ -20,11 +20,12 @@ redirect_from:
 <div class="hero-section">
   <div class="hero-content">
     <div class="hero-text">
-      <h1 class="hero-title">朱君达 博士</h1>
-      <h2 class="hero-subtitle">神经科学家 & 生物医学工程师</h2>
-      <p class="hero-position">博士后科学家 | 西达赛奈医学中心</p>
-      <p class="hero-location">洛杉矶，加利福尼亚州</p>
-      
+      <h1 class="hero-title">朱君达 博士 (Junda Zhu, Ph.D.)</h1>
+      <h2 class="hero-subtitle">神经科学家 | 生物医学工程师</h2>
+      <p class="hero-tagline">将复杂的神经科学转化为医疗与科技领域的可行性洞见</p>
+      <p class="hero-position">博士后科学家 | Cedars-Sinai Medical Center</p>
+      <p class="hero-location">Los Angeles, CA</p>
+
       <div class="hero-cta">
         <a href="assets/E1_CV_cn_202509.html" target="_blank" class="btn-primary">
           <i class="fas fa-download"></i> 下载简历
@@ -32,10 +33,15 @@ redirect_from:
         <a href="/zh/contact/" class="btn-secondary">
           <i class="fas fa-envelope"></i> 联系我
         </a>
+        <a href="/experience/" class="btn-outline">
+          <i class="fas fa-briefcase"></i> 查看经历
+        </a>
       </div>
     </div>
   </div>
 </div>
+
+
 
 <!-- About Section -->
 <section class="about-section">
