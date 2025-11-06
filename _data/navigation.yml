@@ -26,9 +26,23 @@ main-zh:
   - title: "首页"
     url: "/zh/"
 
+  - title: "关于"
+    url: "/zh/"
+
+  - title: "工作经历"
+    url: "/zh/experience/"
+
+  - title: "研究项目"
+    url: "/zh/projects/"
+
+  - title: "技能"
+    url: "/zh/skills/"
+
   - title: "研究"
-    url: "/research/"
+    url: "/zh/research/"
 
   - title: "论文发表"
-    url: "/publications/"
+    url: "/zh/publications/"
 
+  - title: "联系方式"
+    url: "/zh/contact/"
