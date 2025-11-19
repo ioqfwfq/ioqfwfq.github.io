@@ -26,13 +26,10 @@ redirect_from:
       <p class="hero-location">Los Angeles, CA</p>
       
       <div class="hero-cta">
-        <a href="assets/Junda_Zhu_CV_20251015.html" target="_blank" class="btn-primary">
-          <i class="fas fa-download"></i> Download CV
-        </a>
-        <a href="/contact/" class="btn-secondary">
+        <a href="/contact/" class="btn-primary">
           <i class="fas fa-envelope"></i> Contact Me
         </a>
-        <a href="/experience/" class="btn-outline">
+        <a href="/experience/" class="btn-secondary">
           <i class="fas fa-briefcase"></i> View Experience
         </a>
       </div>
@@ -369,6 +366,21 @@ redirect_from:
     
     <div class="cta-center">
       <a href="/projects/" class="btn-secondary">View All Projects</a>
+    </div>
+  </div>
+</section>
+
+<!-- Download CV Section -->
+<section class="download-section">
+  <div class="container">
+    <h2 class="section-title">Download Materials</h2>
+    <p class="lead" style="text-align: center; margin-bottom: 24px;">
+      Get a comprehensive overview of my professional background, publications, and experience.
+    </p>
+    <div class="cta-center">
+      <a href="assets/Junda_Zhu_CV_20251118.html" target="_blank" class="btn-primary">
+        <i class="fas fa-download"></i> Download Full CV
+      </a>
     </div>
   </div>
 </section>

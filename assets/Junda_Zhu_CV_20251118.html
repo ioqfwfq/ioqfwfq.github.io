@@ -1,0 +1,335 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Junda Zhu — CV</title>
+  <style>
+    :root { --ink:#1a202c; --muted:#4a5568; --accent:#2563eb; --bg:#ffffff; --pill:#f7fafc; --border:#cbd5e0; }
+    * { box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      color: var(--ink);
+      background: var(--bg);
+      margin: 0;
+      line-height: 1.6;
+      font-size: 15px;
+    }
+    .page {
+      max-width: 8.5in;
+      margin: 0.5in auto;
+      padding: 0 0.5in 0.5in;
+      background: white;
+    }
+    .masthead {
+      display: block;
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 14px;
+      margin-bottom: 24px;
+    }
+    .masthead h1 {
+      font-size: 34px;
+      line-height: 1.2;
+      margin: 0;
+      letter-spacing: -0.5px;
+      font-weight: 700;
+      color: var(--ink);
+    }
+    .masthead .lead {
+      color: var(--ink);
+      font-weight: 600;
+      margin-top: 8px;
+      font-size: 17px;
+    }
+    .masthead .contact {
+      color: var(--muted);
+      font-size: 14px;
+      margin-top: 10px;
+      line-height: 1.5;
+    }
+    .masthead .contact a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+    .masthead .sep {
+      margin: 0 7px;
+      color: var(--muted);
+    }
+    .section {
+      margin-top: 22px;
+      page-break-inside: avoid;
+    }
+    .section h2 {
+      font-size: 15px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      font-weight: 700;
+      color: var(--muted);
+      margin: 16px 0 10px;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 4px;
+    }
+    .tagline {
+      font-size: 15px;
+      line-height: 1.65;
+      border-left: 3px solid var(--accent);
+      padding-left: 14px;
+      margin-top: 12px;
+    }
+    .pills {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 12px;
+    }
+    .pill {
+      background: var(--pill);
+      padding: 6px 12px;
+      border-radius: 4px;
+      font-size: 13px;
+      border: 1px solid var(--border);
+      color: var(--ink);
+      font-weight: 500;
+    }
+    ul.clean {
+      list-style: none;
+      padding-left: 0;
+      margin: 12px 0 0;
+    }
+    ul.clean li {
+      margin: 8px 0;
+      line-height: 1.6;
+    }
+    ul.clean ul.clean {
+      margin-top: 6px;
+      padding-left: 18px;
+    }
+    ul.clean ul.clean li {
+      margin: 4px 0;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3,1fr);
+      gap: 12px 18px;
+      margin-top: 12px;
+    }
+    .grid > div {
+      line-height: 1.5;
+    }
+    .small {
+      font-size: 13px;
+      color: var(--muted);
+      line-height: 1.5;
+    }
+    strong {
+      font-weight: 600;
+      color: var(--ink);
+    }
+    em {
+      font-style: italic;
+    }
+
+    @media print {
+      @page {
+        size: letter;
+        margin: 0.5in;
+      }
+      body {
+        margin: 0;
+        font-size: 11pt;
+      }
+      .page {
+        max-width: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      .section {
+        page-break-inside: avoid;
+      }
+      .masthead h1 {
+        font-size: 28pt;
+      }
+      .masthead .lead {
+        font-size: 14pt;
+      }
+      .section h2 {
+        font-size: 12pt;
+        color: #2d3748;
+        border-bottom: 1.5pt solid #cbd5e0;
+      }
+      .pill {
+        background: white;
+        border: 1pt solid #2d3748;
+        padding: 4pt 10pt;
+        font-size: 10pt;
+        font-weight: 600;
+      }
+      .tagline {
+        border-left: 2pt solid #2d3748;
+        font-size: 11pt;
+      }
+      a {
+        color: #1a202c;
+        text-decoration: none;
+      }
+      .contact a::after {
+        content: "";
+      }
+      .grid {
+        gap: 8pt 12pt;
+      }
+      .small {
+        font-size: 10pt;
+      }
+      ul.clean li {
+        margin: 6pt 0;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <header class="masthead">
+      <h1>Junda Zhu, Ph.D.</h1>
+      <div class="lead">Neuroscientist & Neuroengineer</div>
+      <div class="contact">
+        Los Angeles, CA <span class="sep">·</span>
+        <a href="https://ioqfwfq.github.io" target="_blank" rel="noopener">Portfolio</a>
+        <span class="sep">·</span><a href="https://github.com/ioqfwfq" target="_blank" rel="noopener">GitHub</a>
+        <span class="sep">·</span><a href="https://scholar.google.com/citations?user=baTkGRAAAAAJ" target="_blank" rel="noopener">Google Scholar</a>
+        <span class="sep">·</span><a href="https://www.linkedin.com/in/jundazhu/" target="_blank" rel="noopener">LinkedIn</a>
+        <span class="sep">·</span><a href="mailto:jzhu.neuro@gmail.com">jzhu.neuro@gmail.com</a>
+      </div>
+    </header>
+
+    <section class="section">
+      <h2>Profile</h2>
+      <div class="tagline">
+        End‑to‑end neuroscientist & neuroengineer across <strong>human and non‑human primate</strong> electrophysiology, behavior, and imaging. Experienced with <strong>acute & chronic implants</strong> and <strong>invasive & non‑invasive recording and neuromodulation</strong>. I build the whole pipeline -- <em>study design → acquisition (bedside/OR/online) → QC → decoding/analysis → reporting</em> -- and translate results for clinicians, engineers, and scientists. Current work spans <strong>closed‑loop and offline</strong> signal processing for cognitive and decision‑making paradigms.
+      </div>
+      <div class="pills">
+        <span class="pill">Human & NHP electrophysiology</span>
+        <span class="pill">Acute & chronic implants</span>
+        <span class="pill">Invasive & non‑invasive recording</span>
+        <span class="pill">Neuromodulation workflows</span>
+        <span class="pill">Behavioral task design</span>
+        <span class="pill">Closed‑loop & offline analysis</span>
+        <span class="pill">Scientific communication</span>
+        <span class="pill">Team player & strong IC</span>
+        <span class="pill">Project management</span>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>Impact & Contributions</h2>
+      <ul class="clean">
+        <li><strong>Full‑stack study ownership</strong>: designed from scratch, coded (Python/JS), deployed, recruited, budgeted, and analyzed cognitive/memory/decision‑making tasks; collected data from <em>100+ participants</em> (patients & healthy controls) across online and in‑person settings.</li>
+        <li><strong>Reliable bedside & OR capture</strong>: ongoing project supports ~10 bedside patients <em>(including two pediatric patients)</em> and ~5 intra‑operative sessions; standardized setup/checklists for stable signal acquisition and smooth sterile‑field workflow.</li>
+        <li><strong>Industry collaboration (company name confidential)</strong>: beta‑tested next‑generation <em>laminar</em> probes in NHP models (at Vanderbilt) and human intra‑operative research (at Cedars‑Sinai); provided feedback on signal quality, insertion approach, and drape/sterilization integration.</li>
+        <li><strong>Clinical & regulatory operations</strong>: coordinated IRB submissions/amendments; adhered to GCP/HSR and site SOPs; contributed to site start‑up readiness and onboarding/training documentation.</li>
+        <li><strong>Reproducible analysis</strong>: containerized pipelines (Docker/conda), standardized repositories and runbooks, and <em>open‑sourced a utility library on GitHub</em> to reduce reruns and speed iteration.</li>
+        <li><strong>Mentorship & training</strong>: trained undergraduate and graduate students at Vanderbilt and Cedars‑Sinai; authored quick‑start guides/SOPs for onboarding.</li>
+        <li><strong>Communication & grant enablement</strong>: produced figures/briefings for multi‑disciplinary stakeholders; contributed preliminary datasets that supported successful NIH R01 applications.</li>
+        <li><strong>Team player & strong IC</strong>: collaborative across surgery, neurology, and engineering while independently executing complex projects with solid project‑management practices.</li>
+      </ul>
+    </section>
+
+    <section class="section">
+      <h2>Skills & Tools</h2>
+      <div class="grid">
+        <div><strong>Clinical Ops</strong><br/>IRB/ISO 14155, GCP/HSR, site start‑up & training, AE reporting</div>
+        <div><strong>Neural Data & ML</strong><br/>Python, MATLAB, R (<strong>10+ yrs</strong>); pandas, scikit‑learn, PyTorch; SVM/LDA/RNN; dPCA/GAM/Mixed‑effects</div>
+        <div><strong>Acquisition & Hardware</strong><br/>Blackrock NeuroPort/CerePlex; Neuralynx System; National Instruments DAQ; Open Ephys; Neuropixels; Brainsight Vet (neuronavigation/robotic guidance); headstages & amplifiers; eye‑tracking</div>
+        <div><strong>Experiment Design</strong><br/>Psychtoolbox, PsychoPy/Pavlovia; Cedrus control module; Arduino; eye‑tracking</div>
+        <div><strong>Neuroimaging</strong><br/>fMRI/DTI; AFNI, FreeSurfer; longitudinal analysis</div>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>Experience</h2>
+      <ul class="clean">
+        <li><strong>Postdoctoral Scientist, Neurosurgery</strong> — Cedars‑Sinai Medical Center, Los Angeles, CA — 2024–Present<br/>
+          <span class="small"><em>Scope</em>: Human intracranial research (bedside/OR), neural/behavioral task design, analysis pipelines, cross‑stakeholder communication.</span>
+          <ul class="clean">
+            <li><em>Built from scratch task design</em>: built and deployed a cognitive control task (unpublished) for bedside/OR and online use; integrated Cedrus box; bilingual prompts and quick practice flow; used across ~10 bedside patients and ~5 intra‑op sessions (including two pediatric patients); >100 online participants.</li>
+            <li><em>External collaboration</em>: beta‑tested next‑generation <em>laminar</em> probes in NHP (Vanderbilt) and human intra‑operative settings (Cedars‑Sinai); delivered usability and signal‑quality feedback (insertion angle, impedance/QC checks, sterile‑field workflow).</li>
+            <li><em>Ops & documentation</em>: authored SOPs/checklists and pre‑op drills; coordinated IRB submissions and amendments; prepared concise data briefs for clinical and engineering stakeholders.</li>
+            <li><em>Pipelines</em>: containerized Python/MATLAB analysis; standardized repositories and runbooks; built a utility package and open‑sourced it on GitHub to support reuse and reproducibility.</li>
+            <li><em>Stack</em>: Python (NumPy/Pandas/scikit‑learn, PyTorch), MATLAB/R; Blackrock/TDT; Docker/conda; Git/CI; PsychoPy/Psychtoolbox; Pavlovia/Prolific.</li>
+          </ul>
+        </li>
+        <li><strong>Postdoctoral Fellow, Biomedical Engineering</strong> — Vanderbilt University — 2024<br/>
+          <span class="small"><em>Scope</em>: Transition bridge from Ph.D. to postdoc; collaboration across clinical and engineering teams; research translation and readiness for human electrophysiology.</span>
+          <ul class="clean">
+            <li><em>Outcomes</em>: programmed and operated Brainsight Vet neuronavigation/robotic guidance system for nonhuman primate procedures; planned targets/trajectories and integrated with task workflows.</li>
+          </ul>
+        </li>
+        <li><strong>Ph.D. Candidate, Neuroscience</strong> — Vanderbilt University — 2021–2024<br/>
+          <span class="small"><em>Scope</em>: Large‑scale neurophysiology; adolescent development of working memory; longitudinal imaging; statistical modeling; decoding & dynamical systems; student mentorship.</span>
+          <ul class="clean">
+            <li><em>Outcomes</em>: first‑author and collaborative publications (Nature Neuroscience 2025; iScience 2024; J Neurophysiol 2023); reproducible pipelines; mentored undergrad/grad students on analysis and experiment design.</li>
+          </ul>
+        </li>
+        <li><strong>Ph.D. Candidate, Neuroscience</strong> — Wake Forest University School of Medicine — 2018–2021</li>
+        <li><strong>Research Assistant, Neurobiology</strong> — Southern University of Science and Technology — 2015–2018</li>
+      </ul>
+    </section>
+
+    <section class="section">
+      <h2>Education & Certifications</h2>
+      <ul class="clean">
+        <li><strong>Ph.D., Neuroscience</strong> — Vanderbilt University, 2024</li>
+        <li><strong>B.S., Bioinformatics</strong> — Southern University of Science and Technology, 2018</li>
+        <li><strong>Graduate Certificate (in progress)</strong> — Clinical & Regulatory Sciences, Cedars‑Sinai</li>
+        <li><strong>CITI Program</strong> — GCP (2024–2027); Biomedical Investigators & Key Personnel/HSR (2024–2034); Conflicts of Interest (2024–2028)</li>
+        <li><strong>HIPAA</strong> — HIPAA Privacy & Security Training (current)</li>
+        <li><strong>Professional</strong> — Google Project Management (course)</li>
+      </ul>
+    </section>
+
+    <section class="section">
+      <h2>Publications</h2>
+      <ul class="clean">
+        <li><strong>Zhu, J.</strong>, Garin, C.M., Qi, X.-L., Machado, A., Wang, Z., Hamed, S.B., Stanford, T.R., Salinas, E., Constantinidis, C. <em>Brain structure and activity predict cognitive maturation in adolescence</em>. <span class="small">Nature Neuroscience, 2025.</span></li>
+        <li>Machado, A., <strong>Zhu, J.</strong>, Garin, C.M., McPhail, M., Anderson, A., Calabro, F., Luna, B., et al. <em>White matter microstructure and working memory of macaques in adolescence</em>. <span class="small">Journal of Vision, 2024.</span></li>
+        <li><strong>Zhu, J.</strong>, Zhou, X.M., Constantinidis, C., Salinas, E., Stanford, T.R. <em>Parallel signatures of cognitive maturation in primate antisaccade performance and prefrontal activity</em>. <span class="small">iScience, 2024.</span></li>
+        <li>Alldritt, S., Ramirez, J.S.B., de Wael, R.V., Bethlehem, R., Seidlitz, J., Wang, Z., <strong>Zhu, J.</strong>, et al. <em>Brain Charts for the Rhesus Macaque Lifespan</em>. <span class="small">bioRxiv, 2024.</span></li>
+        <li><strong>Zhu, J.</strong>, Garin, C.M., Qi, X.-L., Machado, A., Constantinidis, C., et al. <em>Brain structure and activity predicting cognitive maturation in adolescence</em>. <span class="small">bioRxiv, 2024.</span></li>
+        <li><strong>Zhu, J.</strong>, Constantinidis, C. <em>Neural circuits and processes of working memory</em>. <span class="small">Encyclopedia of the Human Brain, 2nd ed., 2024.</span></li>
+        <li><strong>Zhu, J.</strong>, Hammond, B.M., Zhou, X.M., Constantinidis, C. <em>Laminar pattern of adolescent development changes in working memory neuronal activity</em>. <span class="small">Journal of Neurophysiology, 2023.</span></li>
+        <li>Han, P., She, Y., Yang, Z., Zhuang, M., Wang, Q, Luo, X., Yin, C., <strong>Zhu, J.</strong>, et al. <em>Cbln1 regulates axon growth and guidance in multiple neural regions</em>. <span class="small">PLOS Biology, 2022.</span></li>
+        <li><strong>Zhu, J.</strong>, Lodish, A.W., Silenzi, L., Kattner, E.A., Myatt, G.D., Gu, D., Robertson, M., et al. <em>Working Memory and Prefrontal Neural Activity of Macaques in Early Adolescence</em>. <span class="small">Journal of Vision, 2021.</span></li>
+        <li>Liu, Y.H., <strong>Zhu, J.</strong>, Constantinidis, C., Zhou, X. <em>Emergence of prefrontal neuron maturation properties by training recurrent neural networks in cognitive tasks</em>. <span class="small">iScience, 2021.</span></li>
+        <li>Zhuang, M., Li, X., <strong>Zhu, J.</strong>, Zhang, J., Niu, F., Liang, F., Chen, M., Li, D., Han, P., Ji, S.J. <em>The m6A reader YTHDF1 regulates axon guidance through translational control of Robo3.1 expression</em>. <span class="small">Nucleic Acids Research, 2019.</span></li>
+        <li>Yu, J., Chen, M., Huang, H., <strong>Zhu, J.</strong>, Song, H., Park, J., Ji, S.J. <em>Dynamic m6A modification regulates local translation of mRNA in axons</em>. <span class="small">Nucleic Acids Research, 2018.</span></li>
+      </ul>
+    </section>
+
+    <section class="section">
+      <h2>Editorial & Professional Roles</h2>
+      <ul class="clean">
+        <li><strong>Editor</strong> — The Innovation Life journal — 2024–Present</li>
+        <li><strong>Editorial Board Member</strong> — American Journal of Biomedical and Life Sciences — 2024–Present</li>
+        <li><strong>Reviewer</strong> — Frontiers in Computational Neuroscience — 2024–Present</li>
+        <li><strong>Reviewer</strong> — Journal of Neurophysiology — 2020–Present</li>
+        <li><strong>Member</strong> — Society for Neuroscience — 2021–Present</li>
+      </ul>
+    </section>
+
+    <section class="section">
+      <h2>Presentations & Posters</h2>
+      <ul class="clean">
+        <li>Maturational trajectories of cognitive and prefrontal activity in adolescence — Johns Hopkins University, Jan 2024.</li>
+        <li>Working memory development in adolescent macaques — Working Memory Symposium 2023, May 2023.</li>
+        <li>Neuronal activity changes in the macaque prefrontal cortex during adolescence — Society for Neuroscience, Nov 2022.</li>
+        <li>Structural brain changes of the macaque brain during adolescence — Society for Neuroscience, Nov 2022.</li>
+        <li>Precision of visuospatial working memory reports in adolescent monkeys — Society for Neuroscience, Nov 2022.</li>
+        <li>NMDA dependence of serial biases in working memory — CRCNS PI Meeting, Oct 2022.</li>
+        <li>Prefrontal neural changes in early adolescence related to working memory — Society for Neuroscience, Nov 2021.</li>
+        <li>Working memory and prefrontal neural activity of macaques in early adolescence — Vision Sciences Society, May 2021.</li>
+      </ul>
+    </section>
+
+  </main>
+</body>
+</html>
