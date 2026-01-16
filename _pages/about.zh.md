@@ -91,6 +91,25 @@ redirect_from:
     <div class="highlights-grid">
       <div class="highlight-card">
         <div class="highlight-icon">
+          <i class="fas fa-microphone"></i>
+        </div>
+        <div class="highlight-content">
+          <h3>Neureport Vol.81学术报告</h3>
+          <p>在脑人言Neureport系列讲座中分享"青少年大脑：结构、神经活动和成熟认知"主题演讲</p>
+          <span class="highlight-date">2026年1月</span>
+          <div class="project-links">
+            <a href="https://youtu.be/Ahp4bwk7Fqg" target="_blank" class="btn-readmore">
+              <i class="fab fa-youtube"></i> YouTube观看
+            </a>
+            <a href="https://www.bilibili.com/video/BV1Ho2HB2Ec2/" target="_blank" class="btn-readmore">
+              <i class="fas fa-video"></i> Bilibili观看
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div class="highlight-card">
+        <div class="highlight-icon">
           <i class="fas fa-newspaper"></i>
         </div>
         <div class="highlight-content">

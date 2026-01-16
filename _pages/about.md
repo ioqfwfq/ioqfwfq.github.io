@@ -85,6 +85,25 @@ redirect_from:
     <div class="highlights-grid">
       <div class="highlight-card">
         <div class="highlight-icon">
+          <i class="fas fa-microphone"></i>
+        </div>
+        <div class="highlight-content">
+          <h3>Talk at Neureport Vol.81</h3>
+          <p>Presented "The adolescent brain: structure, neural activity, and cognitive maturation" at iBrainTalks Neureport series</p>
+          <span class="highlight-date">January 2026</span>
+          <div class="project-links">
+            <a href="https://youtu.be/Ahp4bwk7Fqg" target="_blank" class="btn-readmore">
+              <i class="fab fa-youtube"></i> Watch on YouTube
+            </a>
+            <a href="https://www.bilibili.com/video/BV1Ho2HB2Ec2/" target="_blank" class="btn-readmore">
+              <i class="fas fa-video"></i> Watch on Bilibili
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div class="highlight-card">
+        <div class="highlight-icon">
           <i class="fas fa-newspaper"></i>
         </div>
         <div class="highlight-content">
