@@ -32,7 +32,20 @@ author_profile: true
 
   <div class="publications-list">
     <h2>Peer-Reviewed Publications</h2>
-    
+
+    <div class="publication-item">
+      <div class="pub-year">2025</div>
+      <div class="pub-content">
+        <h3>Asynchronous firing and off states in working memory maintenance</h3>
+        <p class="pub-authors">Mozumder, R., Wang, Z., <strong>Zhu, J.</strong>, et al.</p>
+        <p class="pub-journal"><em>Cell Reports</em></p>
+        <p class="pub-abstract">Using high-density recordings in macaque prefrontal and parietal cortex, this study shows that working memory is sustained by asynchronous spiking activity without prolonged silent periods.</p>
+        <div class="pub-links">
+          <span class="pub-citation" data='jzhu2023:CELL_REPORTS_ID'></span>
+        </div>
+      </div>
+    </div>
+
     <div class="publication-item">
       <div class="pub-year">2025</div>
       <div class="pub-content">

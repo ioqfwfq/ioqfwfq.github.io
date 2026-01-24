@@ -36,6 +36,19 @@ author_profile: true
     <div class="publication-item">
       <div class="pub-year">2025</div>
       <div class="pub-content">
+        <h3>Asynchronous firing and off states in working memory maintenance</h3>
+        <p class="pub-authors">Mozumder, R., Wang, Z., <strong>Zhu, J.</strong>, et al.</p>
+        <p class="pub-journal"><em>Cell Reports</em></p>
+        <p class="pub-abstract">通过在恒河猴前额叶和顶叶皮层进行高密度记录，本研究表明工作记忆由异步放电活动维持，而非长时间的沉默期。</p>
+        <div class="pub-links">
+          <span class="pub-citation" data='jzhu2023:CELL_REPORTS_ID'></span>
+        </div>
+      </div>
+    </div>
+
+    <div class="publication-item">
+      <div class="pub-year">2025</div>
+      <div class="pub-content">
         <h3>Brain structure and activity predicting cognitive maturation in adolescence</h3>
         <p class="pub-authors"><strong>Zhu, J.</strong>, Garin, C.M., Qi, X.-L., Machado, A., Constantinidis, C., et al.</p>
         <p class="pub-journal"><em>Nature Neuroscience</em></p>
