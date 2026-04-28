@@ -15,11 +15,11 @@ author_profile: true
       <div class="stat-label">Total Citations</div>
     </div>
     <div class="stat-item">
-      <div class="stat-number">15+</div>
+      <div class="stat-number">17+</div>
       <div class="stat-label">Publications</div>
     </div>
     <div class="stat-item">
-      <div class="stat-number">5</div>
+      <div class="stat-number">6</div>
       <div class="stat-label">First Author</div>
     </div>
   </div>
@@ -34,11 +34,11 @@ author_profile: true
     <h2>Peer-Reviewed Publications</h2>
 
     <div class="publication-item">
-      <div class="pub-year">2025</div>
+      <div class="pub-year">2026</div>
       <div class="pub-content">
         <h3>Asynchronous firing and off states in working memory maintenance</h3>
-        <p class="pub-authors">Mozumder, R., Wang, Z., <strong>Zhu, J.</strong>, et al.</p>
-        <p class="pub-journal"><em>Cell Reports</em></p>
+        <p class="pub-authors">Mozumder, R., Wang, Z., Dang, W., <strong>Zhu, J.</strong>, Hammond, B.M., Machado, A., et al.</p>
+        <p class="pub-journal"><em>Cell Reports</em> 45(1)</p>
         <p class="pub-abstract">Using high-density recordings in macaque prefrontal and parietal cortex, this study shows that working memory is sustained by asynchronous spiking activity without prolonged silent periods.</p>
         <div class="pub-links">
           <span class="pub-citation" data='jzhu2023:CELL_REPORTS_ID'></span>
@@ -49,8 +49,8 @@ author_profile: true
     <div class="publication-item">
       <div class="pub-year">2025</div>
       <div class="pub-content">
-        <h3>Brain structure and activity predicting cognitive maturation in adolescence</h3>
-        <p class="pub-authors"><strong>Zhu, J.</strong>, Garin, C.M., Qi, X.-L., Machado, A., Constantinidis, C., et al.</p>
+        <h3>Longitudinal measures of monkey brain structure and activity through adolescence predict cognitive maturation</h3>
+        <p class="pub-authors"><strong>Zhu, J.</strong>, Garin, C.M., Qi, X.-L., Machado, A., Wang, Z., Ben Hamed, S., Stanford, T.R., Constantinidis, C., et al.</p>
         <p class="pub-journal"><em>Nature Neuroscience</em></p>
         <p class="pub-abstract">This study identified neural predictors of cognitive development during adolescence using multimodal neuroimaging and machine learning approaches.</p>
         <div class="pub-links">
@@ -179,7 +179,47 @@ author_profile: true
 
   <div class="preprints-section">
     <h2>Preprints & Under Review</h2>
-    
+
+    <div class="publication-item preprint">
+      <div class="pub-year">2026</div>
+      <div class="pub-content">
+        <h3>Trajectories of Response Inhibition Development in Adolescence</h3>
+        <p class="pub-authors"><strong>Zhu, J.</strong>, Smith, C.R., Garin, C.M., Zhou, X.M., Calabro, F., Luna, B., et al.</p>
+        <p class="pub-journal"><em>bioRxiv</em></p>
+        <p class="pub-abstract">Developmental trajectories of response inhibition across adolescence.</p>
+      </div>
+    </div>
+
+    <div class="publication-item preprint">
+      <div class="pub-year">2026</div>
+      <div class="pub-content">
+        <h3>Prefrontal Mechanisms of Rule Learning</h3>
+        <p class="pub-authors">Jaffe, R., Dang, W., Gao, T., <strong>Zhu, J.</strong>, Constantinidis, C.</p>
+        <p class="pub-journal"><em>bioRxiv</em></p>
+        <p class="pub-abstract">Prefrontal circuit mechanisms underlying rule learning.</p>
+      </div>
+    </div>
+
+    <div class="publication-item preprint">
+      <div class="pub-year">2025</div>
+      <div class="pub-content">
+        <h3>Cross-species evidence for the refinement of intrinsic neural timescales supporting executive system maturation through adolescence</h3>
+        <p class="pub-authors">McKeon, S.D., Petrie, D., Sydnor, V.J., Wang, Z., <strong>Zhu, J.</strong>, Famalette, A., Foran, W., et al.</p>
+        <p class="pub-journal"><em>bioRxiv</em></p>
+        <p class="pub-abstract">Cross-species analysis of intrinsic neural timescales and their refinement during adolescent maturation of executive function.</p>
+      </div>
+    </div>
+
+    <div class="publication-item preprint">
+      <div class="pub-year">2024</div>
+      <div class="pub-content">
+        <h3>Brain charts for the rhesus macaque lifespan</h3>
+        <p class="pub-authors">Alldritt, S., Ramirez, J.S.B., de Wael, R.V., Bethlehem, R., Seidlitz, J., Wang, Z., et al.</p>
+        <p class="pub-journal"><em>bioRxiv</em></p>
+        <p class="pub-abstract">Normative brain growth charts spanning the rhesus macaque lifespan.</p>
+      </div>
+    </div>
+
     <div class="publication-item preprint">
       <div class="pub-year">2020</div>
       <div class="pub-content">

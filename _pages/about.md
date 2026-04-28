@@ -271,7 +271,7 @@ redirect_from:
     <div class="stats-compact">
       <div class="stat-inline">
         <i class="fas fa-file-alt"></i>
-        <span class="stat-num">15+</span>
+        <span class="stat-num">17+</span>
         <span class="stat-lbl">Publications</span>
       </div>
       <div class="stat-inline">
@@ -281,7 +281,7 @@ redirect_from:
       </div>
       <div class="stat-inline">
         <i class="fas fa-award"></i>
-        <span class="stat-num">5</span>
+        <span class="stat-num">6</span>
         <span class="stat-lbl">First-Author Papers</span>
       </div>
       <div class="stat-inline">
@@ -321,7 +321,7 @@ redirect_from:
           <span class="tag">Longitudinal</span>
         </div>
         <div class="project-links">
-          <a href="#" class="btn-readmore">
+          <a href="https://www.nature.com/articles/s41593-025-02076-0" target="_blank" class="btn-readmore">
             <i class="fas fa-external-link-alt"></i> Read Paper
           </a>
         </div>
