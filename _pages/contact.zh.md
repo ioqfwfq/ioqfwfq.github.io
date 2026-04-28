@@ -7,17 +7,13 @@ author_profile: true
 ---
 
 <div class="contact-container" style="max-width: 700px; margin: 0 auto; padding: 20px;">
-  <h1>联系我</h1>
-  
+  <h1>联系方式</h1>
+
   <p style="font-size: 1.1em; line-height: 1.6; margin-bottom: 30px;">
-    对我有疑问？有兴趣合作？<br>
-    请通过邮箱 <strong>junda.zhu@csmc.edu</strong> 联系我。<br>
-    也可以通过下方的其他方式与我取得联系。
+    邮箱：<strong>junda.zhu@csmc.edu</strong>
   </p>
-  
-  <div style="margin-top: 50px; padding-top: 20px; border-top: 1px solid #eee;">
-    <h2>其他联系方式</h2>
-    <p>您也可以通过以下方式联系我：</p>
+
+  <div style="margin-top: 30px;">
     <ul style="list-style-type: none; padding: 0;">
       <li style="margin-bottom: 10px;">
         <a href="{{ site.author.linkedin | prepend: 'https://www.linkedin.com/in/' }}" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #333;">

@@ -11,11 +11,11 @@ author_profile: true
 
   <div class="pub-stats">
     <div class="stat-item">
-      <div class="stat-number" id="total_cit">N/A</div>
+      <div class="stat-number">643+</div>
       <div class="stat-label">总引用次数</div>
     </div>
     <div class="stat-item">
-      <div class="stat-number">17+</div>
+      <div class="stat-number">16</div>
       <div class="stat-label">发表论文</div>
     </div>
     <div class="stat-item">
@@ -26,12 +26,12 @@ author_profile: true
 
   <div class="google-scholar-cta">
     <a href="{{ site.author.googlescholar }}" target="_blank" class="btn-google-scholar">
-      <i class="fas fa-graduation-cap"></i> 在Google Scholar查看完整论文列表
+      <i class="fas fa-graduation-cap"></i> 在 Google Scholar 查看完整论文列表
     </a>
   </div>
 
   <div class="publications-list">
-    <h2>同行评审论文</h2>
+    <h2>同行评议论文</h2>
 
     <div class="publication-item">
       <div class="pub-year">2026</div>
@@ -210,7 +210,7 @@ author_profile: true
       <div class="pub-content">
         <h3>The validation of estradiol extraction and analysis from hair</h3>
         <p class="pub-authors">Wang, W., van Dammen, L., Moody, S.N., Kiesner, J., Neiderhiser, J.M., Dismukes, A., <strong>Zhu, J.</strong>, Constantinidis, C., Shirtcliff, E.A.</p>
-        <p class="pub-journal"><em>预印本</em></p>
+        <p class="pub-journal"><em>OSF Preprints</em></p>
       </div>
     </div>
   </div>

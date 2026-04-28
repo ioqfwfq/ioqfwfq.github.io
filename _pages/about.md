@@ -20,10 +20,7 @@ redirect_from:
   <div class="hero-content">
     <div class="hero-text">
       <h1 class="hero-title">Junda Zhu, Ph.D.</h1>
-      <h2 class="hero-subtitle">Neuroscientist | Biomedical Engineer</h2>
-      <p class="hero-tagline">Translating complex neuroscience into actionable insights for healthcare and technology</p>
-      <p class="hero-position">Postdoctoral Scientist | Cedars-Sinai Medical Center</p>
-      <p class="hero-location">Los Angeles, CA</p>
+      <p class="hero-position">Postdoctoral Scientist · Cedars-Sinai Medical Center · Los Angeles, CA</p>
       
       <div class="hero-cta">
         <a href="/contact/" class="btn-primary">
@@ -39,40 +36,14 @@ redirect_from:
 
  
 
-<!-- Professional Overview -->
+<!-- About -->
 <section class="overview-section">
   <div class="container">
-    <h2 class="section-title">Professional Overview</h2>
+    <h2 class="section-title">About</h2>
     <div class="overview-content">
       <p class="lead">
         Neuroscientist and biomedical engineer focused on adolescent cognitive development and prefrontal cortex function. I integrate neuroimaging (MRI/DTI/fMRI), electrophysiology, and machine learning to link brain maturation with behavior and translate findings to human neurosurgical applications at Cedars‑Sinai.
       </p>
-      
-      <div class="value-props">
-        <div class="value-prop">
-          <div class="value-icon">
-            <i class="fas fa-brain"></i>
-          </div>
-          <h3>Research Excellence</h3>
-            <p>Leading-edge work across DTI/fMRI and single‑unit/clinical recordings with 15+ publications</p>
-        </div>
-
-        <div class="value-prop">
-          <div class="value-icon">
-            <i class="fas fa-users"></i>
-          </div>
-          <h3>Collaboration & Mentorship</h3>
-            <p>Cross-functional leadership of neuroimaging and electrophysiology teams; mentoring next-generation scientists</p>
-        </div>
-        
-        <div class="value-prop">
-          <div class="value-icon">
-            <i class="fas fa-microscope"></i>
-          </div>
-          <h3>Clinical Translation</h3>
-            <p>Translating imaging and intracranial recording insights to neurosurgery and neuropsychiatry</p>
-        </div>
-      </div>
     </div>
   </div>
 </section>
@@ -80,7 +51,7 @@ redirect_from:
 <!-- Professional Highlights -->
 <section class="highlights-section">
   <div class="container">
-    <h2 class="section-title">Recent Highlights</h2>
+    <h2 class="section-title">News</h2>
     
     <div class="highlights-grid">
       <div class="highlight-card">
@@ -124,7 +95,7 @@ redirect_from:
         </div>
         <div class="highlight-content">
           <h3>Editorial Appointment</h3>
-          <p>Honored to join as an editor for The Innovation Life journal</p>
+          <p>Joined The Innovation Life as an editor.</p>
           <span class="highlight-date">December 2024</span>
         </div>
       </div>
@@ -135,7 +106,7 @@ redirect_from:
         </div>
         <div class="highlight-content">
           <h3>Cedars-Sinai Appointment</h3>
-          <p>Started new role as Postdoctoral Scientist focusing on human brain research and clinical applications</p>
+          <p>Started as Postdoctoral Scientist in Neurosurgery.</p>
           <span class="highlight-date">June 2024</span>
         </div>
       </div>
@@ -146,7 +117,7 @@ redirect_from:
         </div>
         <div class="highlight-content">
           <h3>Ph.D. Completion</h3>
-          <p>Successfully defended Ph.D. dissertation in Neuroscience at Vanderbilt University</p>
+          <p>Defended Ph.D. dissertation in Neuroscience, Vanderbilt University.</p>
           <span class="highlight-date">May 2024</span>
         </div>
       </div>

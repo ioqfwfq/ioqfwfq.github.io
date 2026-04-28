@@ -7,10 +7,11 @@ author_profile: true
 ---
 
 <div class="experience-container">
+  <h1>工作经历</h1>
 
 <!-- Current Position -->
 <section class="timeline-section">
-  <h2>工作经历</h2>
+  <h2 class="section-title">工作经历</h2>
 
   <div class="timeline">
     <!-- Current Position -->
@@ -27,14 +28,14 @@ author_profile: true
         </div>
         <div class="timeline-body">
           <p class="role-description">
-            人类颅内研究（床旁/手术室）、神经/行为任务设计、分析流程及跨利益相关者沟通。
+            人类颅内研究（床旁/手术室）、神经/行为任务设计、分析流程及跨团队沟通。
           </p>
           <div class="achievements">
             <ul>
-              <li>从零开始构建认知控制任务，用于床旁/手术室及在线使用（>100名参与者）；在约10名床旁患者和约5次术中会话中部署</li>
-              <li>在非人灵长类和人类术中环境中测试下一代层状探针；提供可用性和信号质量反馈</li>
-              <li>撰写标准操作程序/检查清单；协调IRB提交和修订；为临床和工程利益相关者准备数据简报</li>
-              <li>容器化Python/MATLAB分析流程；在GitHub上开源实用工具包以确保可重复性</li>
+              <li>从零构建认知控制任务，覆盖床旁、手术室与线上场景（>100 名参与者）；已在约 10 例床旁患者与约 5 例术中实验中应用</li>
+              <li>在非人灵长类与人类术中环境中测试新一代 laminar 探针；反馈可用性与信号质量</li>
+              <li>撰写 SOP 与检查清单；协调 IRB 提交与修订；为临床与工程团队准备数据汇报</li>
+              <li>标准化 Python / MATLAB 分析流程；在 GitHub 开源工具包以保障可复现性</li>
             </ul>
           </div>
         </div>
@@ -55,12 +56,12 @@ author_profile: true
         </div>
         <div class="timeline-body">
           <p class="role-description">
-            从博士到博士后的过渡桥梁；跨临床和工程团队合作进行研究转化和人类电生理准备。
+            博士到博士后的过渡阶段；与临床和工程团队合作，推进研究转化与人类电生理准备工作。
           </p>
           <div class="achievements">
             <ul>
-              <li>编程和操作Brainsight Vet神经导航/机器人引导系统用于非人灵长类程序</li>
-              <li>规划靶点/轨迹并与任务工作流程整合</li>
+              <li>在非人灵长类实验中配置并操作 Brainsight Vet 神经导航与机器人引导系统</li>
+              <li>规划靶点与轨迹，并整合到实验流程中</li>
             </ul>
           </div>
         </div>
@@ -81,14 +82,14 @@ author_profile: true
         </div>
         <div class="timeline-body">
           <p class="role-description">
-            大规模神经生理学、青少年工作记忆发育、纵向成像、统计建模以及解码与动力系统。
+            大规模神经生理学、青少年工作记忆发育、纵向影像、统计建模以及解码与动力学系统。
           </p>
           <div class="achievements">
             <ul>
               <li>第一作者论文：Nature Neuroscience (2025)、iScience (2024)、Journal of Neurophysiology (2023)</li>
-              <li>开发神经影像和电生理数据的可重复分析流程</li>
-              <li>指导本科生和研究生进行分析和实验设计</li>
-              <li>在Society for Neuroscience、Vision Sciences Society和CRCNS PI会议上展示研究成果</li>
+              <li>建立神经影像与电生理数据的可复现分析流程</li>
+              <li>指导本科生与研究生开展数据分析和实验设计</li>
+              <li>在 Society for Neuroscience、Vision Sciences Society 与 CRCNS PI 会议上汇报研究成果</li>
             </ul>
           </div>
         </div>
@@ -129,12 +130,12 @@ author_profile: true
         </div>
         <div class="timeline-body">
           <p class="role-description">
-            研究神经发育的分子机制，专注于RNA修饰和轴突导向。
+            研究神经发育的分子机制，重点关注 RNA 修饰与轴突导向。
           </p>
           <div class="achievements">
             <ul>
-              <li>在PLOS Biology和Nucleic Acids Research上共同发表论文</li>
-              <li>开发分子生物学技术和细胞培养专业知识</li>
+              <li>在 PLOS Biology 与 Nucleic Acids Research 上共同发表论文</li>
+              <li>积累分子生物学技术与细胞培养经验</li>
             </ul>
           </div>
         </div>
@@ -145,7 +146,7 @@ author_profile: true
 
 <!-- Education -->
 <section class="education-section">
-  <h2>教育背景</h2>
+  <h2 class="section-title">教育背景</h2>
 
   <div class="education-list">
     <div class="education-item">
@@ -165,7 +166,7 @@ author_profile: true
 
 <!-- Editorial Roles -->
 <section class="editorial-section">
-  <h2>编辑职务与学术活动</h2>
+  <h2 class="section-title">学术服务与编辑</h2>
 
   <div class="editorial-grid">
     <div class="editorial-item">

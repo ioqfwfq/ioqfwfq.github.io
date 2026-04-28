@@ -7,17 +7,13 @@ author_profile: true
 ---
 
 <div class="contact-container" style="max-width: 700px; margin: 0 auto; padding: 20px;">
-  <h1>Get in Touch</h1>
-  
+  <h1>Contact</h1>
+
   <p style="font-size: 1.1em; line-height: 1.6; margin-bottom: 30px;">
-    Have a question about me? Interested in connecting? <br>
-    Please email me at <strong>junda.zhu@csmc.edu</strong>.<br>
-    You can also connect with me via the links below.
+    Email: <strong>junda.zhu@csmc.edu</strong>
   </p>
-  
-  <div style="margin-top: 50px; padding-top: 20px; border-top: 1px solid #eee;">
-    <h2>Alternative Contact Methods</h2>
-    <p>You can also connect with me via:</p>
+
+  <div style="margin-top: 30px;">
     <ul style="list-style-type: none; padding: 0;">
       <li style="margin-bottom: 10px;">
         <a href="{{ site.author.linkedin | prepend: 'https://www.linkedin.com/in/' }}" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #333;">

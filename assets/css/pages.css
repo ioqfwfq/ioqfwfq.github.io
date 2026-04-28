@@ -3,6 +3,56 @@
    Consolidated styles extracted from inline styles in markdown files
    ========================================================================== */
 
+/* Page heading hierarchy — class-based rules (.section-title, .hero-title) defined later override these defaults */
+.experience-container h1,
+.publications-container h1,
+.research-container h1,
+.skills-page-container h1,
+.contact-container h1 {
+  font-size: 2.2em;
+  font-weight: 700;
+  color: #111827;
+  margin: 0 0 28px;
+  padding-bottom: 12px;
+  border-bottom: 2px solid #e5e7eb;
+  letter-spacing: -0.02em;
+}
+
+.experience-container h2,
+.publications-container h2,
+.research-container h2,
+.skills-page-container h2,
+.contact-container h2 {
+  font-size: 1.5em;
+  font-weight: 600;
+  color: #2563eb;
+  margin: 36px 0 14px;
+}
+
+.experience-container h3,
+.publications-container h3,
+.research-container h3,
+.skills-page-container h3,
+.contact-container h3 {
+  font-size: 1.3em;
+  font-weight: 700;
+  color: #1f2937;
+  margin: 22px 0 10px;
+}
+
+.experience-container h4,
+.publications-container h4,
+.research-container h4,
+.skills-page-container h4,
+.contact-container h4 {
+  font-size: 0.95em;
+  font-weight: 600;
+  color: #6b7280;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin: 16px 0 8px;
+}
+
 /* Hero Section */
 .hero-section {
   background: #ffffff;
@@ -457,7 +507,10 @@ section:first-of-type {
 
 .project-links {
   margin-top: 1rem;
-  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: center;
 }
 
 .btn-readmore {

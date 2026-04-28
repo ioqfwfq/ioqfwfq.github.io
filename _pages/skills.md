@@ -1,17 +1,17 @@
 ---
 permalink: /skills/
 title: "Skills"
-excerpt: "Core competencies and technical skills"
+excerpt: "Skills and tools"
 layout: default
 author_profile: true
 ---
 
 <div class="skills-page-container">
-  <h1>Core Competencies</h1>
+  <h1>Skills</h1>
 
   <!-- Clinical & Translational Science -->
   <section class="skill-section">
-    <h2 class="section-header"><i class="fas fa-hospital"></i> Clinical & Translational Science</h2>
+    <h2 class="section-title"><i class="fas fa-hospital"></i> Clinical & Translational Science</h2>
     <div class="skills-grid">
 
       <div class="skill-card">
@@ -45,9 +45,9 @@ author_profile: true
       <div class="skill-card">
         <h3><i class="fas fa-project-diagram"></i> Study Design & Management</h3>
         <ul>
-          <li>End-to-end study ownership (100+ participants)</li>
-          <li>Budget management, timeline tracking</li>
-          <li>Cross-functional stakeholder coordination</li>
+          <li>Independent ownership of full study workflow (100+ participants)</li>
+          <li>Budget & timeline management</li>
+          <li>Cross-team coordination</li>
         </ul>
       </div>
 
@@ -56,7 +56,7 @@ author_profile: true
 
   <!-- Scientific Communications & Strategy -->
   <section class="skill-section">
-    <h2 class="section-header"><i class="fas fa-file-alt"></i> Scientific Communications & Strategy</h2>
+    <h2 class="section-title"><i class="fas fa-file-alt"></i> Scientific Communications & Strategy</h2>
     <div class="skills-grid">
 
       <div class="skill-card">
@@ -72,9 +72,9 @@ author_profile: true
       <div class="skill-card">
         <h3><i class="fas fa-lightbulb"></i> Evidence Generation & Strategy</h3>
         <ul>
-          <li>Strategic publication planning & congress dissemination</li>
+          <li>Publication planning & congress dissemination</li>
           <li>Evidence generation supporting regulatory submissions</li>
-          <li>Cross-functional stakeholder communication</li>
+          <li>Cross-team communication</li>
           <li>Grant contribution (NIH R01 preliminary datasets)</li>
         </ul>
       </div>
@@ -84,7 +84,7 @@ author_profile: true
 
   <!-- Neuroscience Research Methods -->
   <section class="skill-section">
-    <h2 class="section-header"><i class="fas fa-brain"></i> Neuroscience Research Methods</h2>
+    <h2 class="section-title"><i class="fas fa-brain"></i> Neuroscience Research Methods</h2>
     <div class="skills-grid">
 
       <div class="skill-card">
@@ -117,7 +117,7 @@ author_profile: true
 
   <!-- Data Science & Technology -->
   <section class="skill-section">
-    <h2 class="section-header"><i class="fas fa-laptop-code"></i> Data Science & Technology</h2>
+    <h2 class="section-title"><i class="fas fa-laptop-code"></i> Data Science & Technology</h2>
     <div class="skills-grid">
 
       <div class="skill-card">
@@ -132,7 +132,7 @@ author_profile: true
         <h3><i class="fas fa-code"></i> Programming & Tools</h3>
         <ul>
           <li>Python (pandas, scikit-learn, PyTorch), MATLAB, R (10+ yrs)</li>
-          <li>Git, Docker/conda, reproducible pipelines</li>
+          <li>Git, reproducible pipelines</li>
         </ul>
       </div>
 

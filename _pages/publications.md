@@ -11,11 +11,11 @@ author_profile: true
   
   <div class="pub-stats">
     <div class="stat-item">
-      <div class="stat-number" id="total_cit">N/A</div>
+      <div class="stat-number">643+</div>
       <div class="stat-label">Total Citations</div>
     </div>
     <div class="stat-item">
-      <div class="stat-number">17+</div>
+      <div class="stat-number">16</div>
       <div class="stat-label">Publications</div>
     </div>
     <div class="stat-item">

@@ -9,13 +9,11 @@ author_profile: true
 <div class="research-container">
   <h1>Research</h1>
   
-  <div class="research-overview">
-    <p class="lead">
-      My research integrates behavioral testing, neural recordings, and computational modeling to understand 
-      how cognitive functions develop and operate across the lifespan. I focus on the neural mechanisms 
-      underlying working memory and executive functions, with applications in clinical neuroscience.
-    </p>
-  </div>
+  <p>
+    My research integrates behavioral testing, neural recordings, and computational modeling to understand
+    how cognitive functions develop and operate across the lifespan. I focus on the neural mechanisms
+    underlying working memory and executive functions, with applications in clinical neuroscience.
+  </p>
 
   <div class="research-areas">
     <h2>Research Areas</h2>
@@ -47,111 +45,32 @@ author_profile: true
   </div>
 
   <div class="current-projects">
-    <h2>Research Projects</h2>
-    
+    <h2>Selected Projects</h2>
+    <p>Representative work across the research areas above. See <a href="/publications/">Publications</a> for the full list.</p>
+
     <div class="project-detail">
-      <h3>Brain Structure and Activity Predicting Cognitive Maturation in Adolescence</h3>
-      <div class="project-meta">
-        <span><strong>Collaboration:</strong> Vanderbilt University, Wake Forest University</span>
-      </div>
-      <p>
-        This multilevel longitudinal study examined monkey adolescent neurocognitive development, investigating how brain structural changes affect neuronal activity that determines cognitive performance. The developmental trajectory of neural activity in the prefrontal cortex remarkably predicted working memory improvements during adolescence.
-      </p>
-      </div>
+      <h3>Longitudinal brain structure and activity predict cognitive maturation</h3>
+      <p>Monkey adolescent neurocognitive development; prefrontal trajectories predict working memory gains. <em>Nature Neuroscience</em>, 2025.</p>
     </div>
 
     <div class="project-detail">
-      <h3>White Matter Microstructure and Working Memory of Macaques in Adolescence</h3>
-      <div class="project-meta">
-      </div>
-      <p>
-        This study examines the relationship between white matter development and working memory improvement during adolescent maturation in macaque monkeys. Using longitudinal neuroimaging and behavioral testing, researchers tracked changes in white matter microstructure alongside cognitive performance.
-      </p>
+      <h3>Asynchronous firing and off states in working memory maintenance</h3>
+      <p>High-density recordings in macaque prefrontal and parietal cortex show working memory is sustained by asynchronous spiking, not persistent activity. <em>Cell Reports</em>, 2026.</p>
     </div>
 
     <div class="project-detail">
-      <h3>Brain Charts for the Rhesus Macaque Lifespan</h3>
-      <div class="project-meta">
-        <span><strong>Collaboration:</strong> PRIME-DE Consortium</span>
-      </div>
-      <p>
-        This study created normative growth charts for brain structure across the rhesus macaque lifespan using 1,522 MRI scans from 1,024 macaques aggregated from the PRIMatE Data Exchange (PRIME-DE) and other sources.
-      </p>
-      <div class="project-highlights">
-        <h4>Key Contributions:</h4>
-        <ul>
-          <li>Mapped non-linear developmental trajectories for global and regional brain changes</li>
-          <li>Provided normative charts with centile scores revealing key developmental milestones</li>
-          <li>Created interactive open resource supporting cross-species comparisons for translational neuroscience</li>
-        </ul>
-      </div>
+      <h3>Brain charts for the rhesus macaque lifespan</h3>
+      <p>Normative growth charts from 1,522 MRI scans (PRIME-DE Consortium); open resource for cross-species translational research. <em>bioRxiv</em>, 2024.</p>
     </div>
 
     <div class="project-detail">
-      <h3>Laminar Pattern of Adolescent Development Changes in Working Memory</h3>
-      <div class="project-meta">
-      </div>
-      <p>
-        This study investigated the laminar distribution of neurophysiological changes during adolescent development in working memory, analyzing neurophysiological recordings from young and adult monkeys at different cortical depths.
-      </p>
-      <div class="project-highlights">
-        <h4>Key Discoveries:</h4>
-        <ul>
-          <li>Superficial layers exhibited increased baseline firing rate in the adult stage</li>
-          <li>Substantial increases in delay period activity occurred in the middle layers after adolescence</li>
-          <li>Improved discriminability of stimulus location was most evident in deeper layers</li>
-        </ul>
-      </div>
+      <h3>Laminar pattern of adolescent development in working memory</h3>
+      <p>Layer-specific changes in prefrontal activity from adolescence to adulthood. <em>Journal of Neurophysiology</em>, 2023.</p>
     </div>
 
     <div class="project-detail">
-      <h3>Parallel Signatures of Cognitive Maturation in Primate Antisaccade Performance</h3>
-      <div class="project-meta">
-      </div>
-      <p>
-        This study investigated cognitive development using the antisaccade task, where monkeys must resist looking toward a bright stimulus and instead look away. Researchers evaluated behavioral performance and recorded prefrontal cortex neural activity before and after puberty-to-adulthood transition.
-      </p>
-    </div>
-
-    <div class="project-detail">
-      <h3>Emergence of Prefrontal Neuron Maturation Properties by Training RNNs</h3>
-      <div class="project-meta">
-      <p>
-        This study investigated the progressive changes in recurrent neural network (RNN) unit activity as they were trained to perform working memory and response inhibition tasks, paralleling the maturation of prefrontal cortex from adolescence to adulthood.
-      </p>
-      <div class="project-highlights">
-        <h4>Key Insights:</h4>
-        <ul>
-          <li>RNNs developed increased delay period activity during working memory tasks with training</li>
-          <li>Training patterns strongly paralleled primate prefrontal development</li>
-          <li>Revealed universal properties underlying neuronal computations behind cognitive tasks</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <div class="methodologies">
-    <h2>Methodologies & Techniques</h2>
-    <div class="methods-grid">
-      <div class="method-item">
-        <h4>Neuroimaging</h4>
-        <p>fMRI, DTI, structural MRI analysis using AFNI, FreeSurfer, and custom pipelines</p>
-      </div>
-      
-      <div class="method-item">
-        <h4>Electrophysiology</h4>
-        <p>Single-unit recordings, multicontact probes, intracranial EEG in human patients</p>
-      </div>
-      
-      <div class="method-item">
-        <h4>Behavioral Testing</h4>
-        <p>Cognitive tasks, eye-tracking, psychophysics using custom experimental designs</p>
-      </div>
-      
-      <div class="method-item">
-        <h4>Machine Learning</h4>
-        <p>Predictive modeling, dimensionality reduction, neural network analysis</p>
-      </div>
+      <h3>RNN models of prefrontal maturation</h3>
+      <p>Recurrent networks trained on working-memory tasks recapitulate primate prefrontal developmental signatures. <em>iScience</em>, 2021.</p>
     </div>
   </div>
 </div>

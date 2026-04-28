@@ -7,10 +7,11 @@ author_profile: true
 ---
 
 <div class="experience-container">
+  <h1>Experience</h1>
 
 <!-- Current Position -->
 <section class="timeline-section">
-  <h2>Experience</h2>
+  <h2 class="section-title">Experience</h2>
   
   <div class="timeline">
     <!-- Current Position -->
@@ -27,14 +28,14 @@ author_profile: true
         </div>
         <div class="timeline-body">
           <p class="role-description">
-            Human intracranial research (bedside/OR), neural/behavioral task design, analysis pipelines, and cross‑stakeholder communication.
+            Human intracranial research (bedside/OR), neural/behavioral task design, analysis pipelines, and cross‑team communication.
           </p>
           <div class="achievements">
             <ul>
               <li>Built from scratch cognitive control task for bedside/OR and online use (>100 participants); deployed across ~10 bedside patients and ~5 intra‑op sessions</li>
               <li>Beta‑tested next‑generation laminar probes in NHP and human intra‑operative settings; provided usability and signal‑quality feedback</li>
-              <li>Authored SOPs/checklists; coordinated IRB submissions and amendments; prepared data briefs for clinical and engineering stakeholders</li>
-              <li>Containerized Python/MATLAB analysis pipelines; open‑sourced utility package on GitHub for reproducibility</li>
+              <li>Authored SOPs/checklists; coordinated IRB submissions and amendments; prepared data briefs for clinical and engineering teams</li>
+              <li>Standardized Python/MATLAB analysis pipelines; open‑sourced utility package on GitHub for reproducibility</li>
             </ul>
           </div>
         </div>
@@ -134,7 +135,7 @@ author_profile: true
           <div class="achievements">
             <ul>
               <li>Co-authored publications in PLOS Biology and Nucleic Acids Research</li>
-              <li>Developed expertise in molecular biology techniques and cell culture</li>
+              <li>Gained molecular biology and cell culture experience</li>
             </ul>
           </div>
         </div>
@@ -145,7 +146,7 @@ author_profile: true
 
 <!-- Education -->
 <section class="education-section">
-  <h2>Education</h2>
+  <h2 class="section-title">Education</h2>
 
   <div class="education-list">
     <div class="education-item">
@@ -165,7 +166,7 @@ author_profile: true
 
 <!-- Editorial Roles -->
 <section class="editorial-section">
-  <h2>Editorial Roles & Activities</h2>
+  <h2 class="section-title">Service & Editorial</h2>
   
   <div class="editorial-grid">
     <div class="editorial-item">
