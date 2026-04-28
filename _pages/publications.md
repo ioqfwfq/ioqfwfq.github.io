@@ -39,7 +39,6 @@ author_profile: true
         <h3>Asynchronous firing and off states in working memory maintenance</h3>
         <p class="pub-authors">Mozumder, R., Wang, Z., Dang, W., <strong>Zhu, J.</strong>, Hammond, B.M., Machado, A., et al.</p>
         <p class="pub-journal"><em>Cell Reports</em> 45(1)</p>
-        <p class="pub-abstract">Using high-density recordings in macaque prefrontal and parietal cortex, this study shows that working memory is sustained by asynchronous spiking activity without prolonged silent periods.</p>
         <div class="pub-links">
           <span class="pub-citation" data='jzhu2023:CELL_REPORTS_ID'></span>
         </div>
@@ -52,7 +51,6 @@ author_profile: true
         <h3>Longitudinal measures of monkey brain structure and activity through adolescence predict cognitive maturation</h3>
         <p class="pub-authors"><strong>Zhu, J.</strong>, Garin, C.M., Qi, X.-L., Machado, A., Wang, Z., Ben Hamed, S., Stanford, T.R., Constantinidis, C., et al.</p>
         <p class="pub-journal"><em>Nature Neuroscience</em></p>
-        <p class="pub-abstract">This study identified neural predictors of cognitive development during adolescence using multimodal neuroimaging and machine learning approaches.</p>
         <div class="pub-links">
           <span class="pub-citation" data='jzhu2023:NEW_CITATION_ID'></span>
         </div>
@@ -65,7 +63,6 @@ author_profile: true
         <h3>Neural Circuits and Processes of Working Memory</h3>
         <p class="pub-authors"><strong>Zhu, J.</strong>, Constantinidis, C.</p>
         <p class="pub-journal"><em>Encyclopedia of the Human Brain</em>, 2nd ed.</p>
-        <p class="pub-abstract">Comprehensive review of the neural mechanisms underlying working memory function, covering circuit organization and computational principles.</p>
         <div class="pub-links">
           <span class="pub-citation" data='jzhu2023:ALROH1vI_8AC'></span>
         </div>
@@ -78,7 +75,6 @@ author_profile: true
         <h3>White Matter Microstructure and Working Memory of Macaques in Adolescence</h3>
         <p class="pub-authors">Machado, A., <strong>Zhu, J.</strong>, et al.</p>
         <p class="pub-journal"><em>Journal of Vision</em> 24(10):981</p>
-        <p class="pub-abstract">Investigation of the relationship between white matter development and working memory capacity using diffusion tensor imaging in adolescent macaques.</p>
         <div class="pub-links">
           <span class="pub-citation" data='jzhu2023:QEMCV1vI_8AC'></span>
         </div>
@@ -91,7 +87,6 @@ author_profile: true
         <h3>Parallel signatures of cognitive maturation in primate antisaccade performance and prefrontal activity</h3>
         <p class="pub-authors"><strong>Zhu, J.</strong>, Zhou, X.M., et al.</p>
         <p class="pub-journal"><em>iScience</em> 27(8)</p>
-        <p class="pub-abstract">Cross-species analysis revealing parallel developmental trajectories in cognitive performance and neural activity patterns.</p>
         <div class="pub-links">
           <span class="pub-citation" data='jzhu2023:Y7PMK1vI_8AC'></span>
         </div>
@@ -104,7 +99,6 @@ author_profile: true
         <h3>Laminar pattern of adolescent development changes in working memory neuronal activity</h3>
         <p class="pub-authors"><strong>Zhu, J.</strong>, Hammond, B.M., Zhou, X.M., Constantinidis, C.</p>
         <p class="pub-journal"><em>Journal of Neurophysiology</em> 130(4):980-989</p>
-        <p class="pub-abstract">Analysis of layer-specific developmental changes in prefrontal cortex neuronal activity during working memory tasks.</p>
         <div class="pub-links">
           <span class="pub-citation" data='jzhu2023:D5SMN1vI_8AC'></span>
         </div>
@@ -117,7 +111,6 @@ author_profile: true
         <h3>Cbln1 regulates axon growth and guidance in multiple neural regions</h3>
         <p class="pub-authors">Han, P., She, Y., <strong>Zhu, J.</strong>, et al.</p>
         <p class="pub-journal"><em>PLoS Biology</em> 20(11):e3001853</p>
-        <p class="pub-abstract">Investigation of Cbln1's role in axon development and neural circuit formation across different brain regions.</p>
         <div class="pub-links">
           <span class="pub-citation" data='jzhu2023:CBLN1_CITATION_ID'></span>
         </div>
@@ -130,7 +123,6 @@ author_profile: true
         <h3>Emergence of prefrontal neuron maturation properties by training RNNs in cognitive tasks</h3>
         <p class="pub-authors">Liu, Y.H., <strong>Zhu, J.</strong>, et al.</p>
         <p class="pub-journal"><em>iScience</em> 24(10)</p>
-        <p class="pub-abstract">Computational study showing how recurrent neural networks trained on cognitive tasks develop maturation-like properties similar to biological neurons.</p>
         <div class="pub-links">
           <span class="pub-citation" data='jzhu2023:RNN_CITATION_ID'></span>
         </div>
@@ -143,7 +135,6 @@ author_profile: true
         <h3>Working Memory and Prefrontal Neural Activity of Macaques in Early Adolescence</h3>
         <p class="pub-authors"><strong>Zhu, J.</strong>, Lodish, A.W., et al.</p>
         <p class="pub-journal"><em>Journal of Vision</em> 21(9):2913</p>
-        <p class="pub-abstract">Characterization of working memory performance and neural activity patterns in adolescent macaque monkeys.</p>
         <div class="pub-links">
           <span class="pub-citation" data='jzhu2023:ADOLESCENT_WM_ID'></span>
         </div>
@@ -156,7 +147,6 @@ author_profile: true
         <h3>The m6A reader YTHDF1 regulates axon guidance through translational control of Robo3.1 expression</h3>
         <p class="pub-authors">Zhuang, M., Li, X., <strong>Zhu, J.</strong>, et al.</p>
         <p class="pub-journal"><em>Nucleic Acids Research</em> 47(9):4765-4777</p>
-        <p class="pub-abstract">Study of RNA modification mechanisms in axon guidance and neural development.</p>
         <div class="pub-links">
           <span class="pub-citation" data='jzhu2023:M6A_CITATION_ID'></span>
         </div>
@@ -169,7 +159,6 @@ author_profile: true
         <h3>Dynamic m6A modification regulates local translation of mRNA in axons</h3>
         <p class="pub-authors">Yu, J., Chen, M., Huang, H., <strong>Zhu, J.</strong>, et al.</p>
         <p class="pub-journal"><em>Nucleic Acids Research</em> 46(3):1412-1423</p>
-        <p class="pub-abstract">Investigation of RNA methylation dynamics and their role in local protein synthesis in axons.</p>
         <div class="pub-links">
           <span class="pub-citation" data='jzhu2023:DYNAMIC_M6A_ID'></span>
         </div>
@@ -186,7 +175,6 @@ author_profile: true
         <h3>Trajectories of Response Inhibition Development in Adolescence</h3>
         <p class="pub-authors"><strong>Zhu, J.</strong>, Smith, C.R., Garin, C.M., Zhou, X.M., Calabro, F., Luna, B., et al.</p>
         <p class="pub-journal"><em>bioRxiv</em></p>
-        <p class="pub-abstract">Developmental trajectories of response inhibition across adolescence.</p>
       </div>
     </div>
 
@@ -196,7 +184,6 @@ author_profile: true
         <h3>Prefrontal Mechanisms of Rule Learning</h3>
         <p class="pub-authors">Jaffe, R., Dang, W., Gao, T., <strong>Zhu, J.</strong>, Constantinidis, C.</p>
         <p class="pub-journal"><em>bioRxiv</em></p>
-        <p class="pub-abstract">Prefrontal circuit mechanisms underlying rule learning.</p>
       </div>
     </div>
 
@@ -206,7 +193,6 @@ author_profile: true
         <h3>Cross-species evidence for the refinement of intrinsic neural timescales supporting executive system maturation through adolescence</h3>
         <p class="pub-authors">McKeon, S.D., Petrie, D., Sydnor, V.J., Wang, Z., <strong>Zhu, J.</strong>, Famalette, A., Foran, W., et al.</p>
         <p class="pub-journal"><em>bioRxiv</em></p>
-        <p class="pub-abstract">Cross-species analysis of intrinsic neural timescales and their refinement during adolescent maturation of executive function.</p>
       </div>
     </div>
 
@@ -216,7 +202,6 @@ author_profile: true
         <h3>Brain charts for the rhesus macaque lifespan</h3>
         <p class="pub-authors">Alldritt, S., Ramirez, J.S.B., de Wael, R.V., Bethlehem, R., Seidlitz, J., Wang, Z., et al.</p>
         <p class="pub-journal"><em>bioRxiv</em></p>
-        <p class="pub-abstract">Normative brain growth charts spanning the rhesus macaque lifespan.</p>
       </div>
     </div>
 
@@ -226,7 +211,6 @@ author_profile: true
         <h3>The validation of estradiol extraction and analysis from hair</h3>
         <p class="pub-authors">Wang, W., van Dammen, L., Moody, S.N., Kiesner, J., Neiderhiser, J.M., Dismukes, A., <strong>Zhu, J.</strong>, Constantinidis, C., Shirtcliff, E.A.</p>
         <p class="pub-journal"><em>Preprint</em></p>
-        <p class="pub-abstract">Methodological study validating hair-based hormone extraction techniques for developmental research.</p>
       </div>
     </div>
   </div>

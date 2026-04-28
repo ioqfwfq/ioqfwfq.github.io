@@ -39,7 +39,6 @@ author_profile: true
         <h3>Asynchronous firing and off states in working memory maintenance</h3>
         <p class="pub-authors">Mozumder, R., Wang, Z., Dang, W., <strong>Zhu, J.</strong>, Hammond, B.M., Machado, A., et al.</p>
         <p class="pub-journal"><em>Cell Reports</em> 45(1)</p>
-        <p class="pub-abstract">通过在恒河猴前额叶和顶叶皮层进行高密度记录，本研究表明工作记忆由异步放电活动维持，而非长时间的沉默期。</p>
         <div class="pub-links">
           <span class="pub-citation" data='jzhu2023:CELL_REPORTS_ID'></span>
         </div>
@@ -52,7 +51,6 @@ author_profile: true
         <h3>Longitudinal measures of monkey brain structure and activity through adolescence predict cognitive maturation</h3>
         <p class="pub-authors"><strong>Zhu, J.</strong>, Garin, C.M., Qi, X.-L., Machado, A., Wang, Z., Ben Hamed, S., Stanford, T.R., Constantinidis, C., et al.</p>
         <p class="pub-journal"><em>Nature Neuroscience</em></p>
-        <p class="pub-abstract">该研究使用多模态神经影像和机器学习方法识别了青春期认知发展的神经预测因子。</p>
         <div class="pub-links">
           <span class="pub-citation" data='jzhu2023:NEW_CITATION_ID'></span>
         </div>
@@ -65,7 +63,6 @@ author_profile: true
         <h3>Neural Circuits and Processes of Working Memory</h3>
         <p class="pub-authors"><strong>Zhu, J.</strong>, Constantinidis, C.</p>
         <p class="pub-journal"><em>Encyclopedia of the Human Brain</em>, 2nd ed.</p>
-        <p class="pub-abstract">全面综述工作记忆功能背后的神经机制，涵盖环路组织和计算原理。</p>
         <div class="pub-links">
           <span class="pub-citation" data='jzhu2023:ALROH1vI_8AC'></span>
         </div>
@@ -78,7 +75,6 @@ author_profile: true
         <h3>White Matter Microstructure and Working Memory of Macaques in Adolescence</h3>
         <p class="pub-authors">Machado, A., <strong>Zhu, J.</strong>, et al.</p>
         <p class="pub-journal"><em>Journal of Vision</em> 24(10):981</p>
-        <p class="pub-abstract">使用弥散张量成像研究青少年恒河猴白质发育与工作记忆能力之间的关系。</p>
         <div class="pub-links">
           <span class="pub-citation" data='jzhu2023:QEMCV1vI_8AC'></span>
         </div>
@@ -91,7 +87,6 @@ author_profile: true
         <h3>Parallel signatures of cognitive maturation in primate antisaccade performance and prefrontal activity</h3>
         <p class="pub-authors"><strong>Zhu, J.</strong>, Zhou, X.M., et al.</p>
         <p class="pub-journal"><em>iScience</em> 27(8)</p>
-        <p class="pub-abstract">跨物种分析揭示了认知表现和神经活动模式的平行发育轨迹。</p>
         <div class="pub-links">
           <span class="pub-citation" data='jzhu2023:Y7PMK1vI_8AC'></span>
         </div>
@@ -104,7 +99,6 @@ author_profile: true
         <h3>Laminar pattern of adolescent development changes in working memory neuronal activity</h3>
         <p class="pub-authors"><strong>Zhu, J.</strong>, Hammond, B.M., Zhou, X.M., Constantinidis, C.</p>
         <p class="pub-journal"><em>Journal of Neurophysiology</em> 130(4):980-989</p>
-        <p class="pub-abstract">分析工作记忆任务期间前额叶皮层神经元活动的层特异性发育变化。</p>
         <div class="pub-links">
           <span class="pub-citation" data='jzhu2023:D5SMN1vI_8AC'></span>
         </div>
@@ -117,7 +111,6 @@ author_profile: true
         <h3>Cbln1 regulates axon growth and guidance in multiple neural regions</h3>
         <p class="pub-authors">Han, P., She, Y., <strong>Zhu, J.</strong>, et al.</p>
         <p class="pub-journal"><em>PLoS Biology</em> 20(11):e3001853</p>
-        <p class="pub-abstract">研究Cbln1在不同脑区轴突发育和神经环路形成中的作用。</p>
         <div class="pub-links">
           <span class="pub-citation" data='jzhu2023:CBLN1_CITATION_ID'></span>
         </div>
@@ -130,7 +123,6 @@ author_profile: true
         <h3>Emergence of prefrontal neuron maturation properties by training RNNs in cognitive tasks</h3>
         <p class="pub-authors">Liu, Y.H., <strong>Zhu, J.</strong>, et al.</p>
         <p class="pub-journal"><em>iScience</em> 24(10)</p>
-        <p class="pub-abstract">计算研究表明，在认知任务上训练的循环神经网络如何发展出类似生物神经元的成熟特性。</p>
         <div class="pub-links">
           <span class="pub-citation" data='jzhu2023:RNN_CITATION_ID'></span>
         </div>
@@ -143,7 +135,6 @@ author_profile: true
         <h3>Working Memory and Prefrontal Neural Activity of Macaques in Early Adolescence</h3>
         <p class="pub-authors"><strong>Zhu, J.</strong>, Lodish, A.W., et al.</p>
         <p class="pub-journal"><em>Journal of Vision</em> 21(9):2913</p>
-        <p class="pub-abstract">表征青少年恒河猴的工作记忆表现和神经活动模式。</p>
         <div class="pub-links">
           <span class="pub-citation" data='jzhu2023:ADOLESCENT_WM_ID'></span>
         </div>
@@ -156,7 +147,6 @@ author_profile: true
         <h3>The m6A reader YTHDF1 regulates axon guidance through translational control of Robo3.1 expression</h3>
         <p class="pub-authors">Zhuang, M., Li, X., <strong>Zhu, J.</strong>, et al.</p>
         <p class="pub-journal"><em>Nucleic Acids Research</em> 47(9):4765-4777</p>
-        <p class="pub-abstract">研究RNA修饰在轴突导向和神经发育中的机制。</p>
         <div class="pub-links">
           <span class="pub-citation" data='jzhu2023:M6A_CITATION_ID'></span>
         </div>
@@ -169,7 +159,6 @@ author_profile: true
         <h3>Dynamic m6A modification regulates local translation of mRNA in axons</h3>
         <p class="pub-authors">Yu, J., Chen, M., Huang, H., <strong>Zhu, J.</strong>, et al.</p>
         <p class="pub-journal"><em>Nucleic Acids Research</em> 46(3):1412-1423</p>
-        <p class="pub-abstract">研究RNA甲基化动态及其在轴突局部蛋白质合成中的作用。</p>
         <div class="pub-links">
           <span class="pub-citation" data='jzhu2023:DYNAMIC_M6A_ID'></span>
         </div>
@@ -186,7 +175,6 @@ author_profile: true
         <h3>Trajectories of Response Inhibition Development in Adolescence</h3>
         <p class="pub-authors"><strong>Zhu, J.</strong>, Smith, C.R., Garin, C.M., Zhou, X.M., Calabro, F., Luna, B., et al.</p>
         <p class="pub-journal"><em>bioRxiv</em></p>
-        <p class="pub-abstract">Developmental trajectories of response inhibition across adolescence.</p>
       </div>
     </div>
 
@@ -196,7 +184,6 @@ author_profile: true
         <h3>Prefrontal Mechanisms of Rule Learning</h3>
         <p class="pub-authors">Jaffe, R., Dang, W., Gao, T., <strong>Zhu, J.</strong>, Constantinidis, C.</p>
         <p class="pub-journal"><em>bioRxiv</em></p>
-        <p class="pub-abstract">Prefrontal circuit mechanisms underlying rule learning.</p>
       </div>
     </div>
 
@@ -206,7 +193,6 @@ author_profile: true
         <h3>Cross-species evidence for the refinement of intrinsic neural timescales supporting executive system maturation through adolescence</h3>
         <p class="pub-authors">McKeon, S.D., Petrie, D., Sydnor, V.J., Wang, Z., <strong>Zhu, J.</strong>, Famalette, A., Foran, W., et al.</p>
         <p class="pub-journal"><em>bioRxiv</em></p>
-        <p class="pub-abstract">Cross-species analysis of intrinsic neural timescales and their refinement during adolescent maturation of executive function.</p>
       </div>
     </div>
 
@@ -216,7 +202,6 @@ author_profile: true
         <h3>Brain charts for the rhesus macaque lifespan</h3>
         <p class="pub-authors">Alldritt, S., Ramirez, J.S.B., de Wael, R.V., Bethlehem, R., Seidlitz, J., Wang, Z., et al.</p>
         <p class="pub-journal"><em>bioRxiv</em></p>
-        <p class="pub-abstract">Normative brain growth charts spanning the rhesus macaque lifespan.</p>
       </div>
     </div>
 
@@ -226,7 +211,6 @@ author_profile: true
         <h3>The validation of estradiol extraction and analysis from hair</h3>
         <p class="pub-authors">Wang, W., van Dammen, L., Moody, S.N., Kiesner, J., Neiderhiser, J.M., Dismukes, A., <strong>Zhu, J.</strong>, Constantinidis, C., Shirtcliff, E.A.</p>
         <p class="pub-journal"><em>预印本</em></p>
-        <p class="pub-abstract">方法学研究验证用于发育研究的基于毛发的激素提取技术。</p>
       </div>
     </div>
   </div>

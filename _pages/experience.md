@@ -143,53 +143,23 @@ author_profile: true
   </div>
 </section>
 
-<!-- Education & Certifications -->
+<!-- Education -->
 <section class="education-section">
-  <h2>Education & Certifications</h2>
-  
+  <h2>Education</h2>
+
   <div class="education-list">
     <div class="education-item">
       <h3>Ph.D., Neuroscience</h3>
       <p class="institution">Vanderbilt University</p>
       <p class="year">2024</p>
     </div>
-    
+
     <div class="education-item">
       <h3>B.S., Bioinformatics</h3>
       <p class="institution">Southern University of Science and Technology</p>
       <p class="year">2018</p>
     </div>
-    
-    <div class="education-item">
-      <h3>Graduate Certificate (in progress)</h3>
-      <p class="institution">Clinical & Regulatory Sciences, Cedars‑Sinai</p>
-    </div>
-  </div>
 
-  <div class="certifications-list">
-    <h3>Certifications</h3>
-    <div class="cert-grid">
-      <div class="cert-item">
-        <strong>CITI - GCP</strong>
-        <span>2024–2027</span>
-      </div>
-      <div class="cert-item">
-        <strong>CITI - HSR</strong>
-        <span>2024–2034</span>
-      </div>
-      <div class="cert-item">
-        <strong>CITI - COI</strong>
-        <span>2024–2028</span>
-      </div>
-      <div class="cert-item">
-        <strong>HIPAA</strong>
-        <span>Current</span>
-      </div>
-      <div class="cert-item">
-        <strong>Google Project Management</strong>
-        <span>Course</span>
-      </div>
-    </div>
   </div>
 </section>
 
@@ -209,7 +179,13 @@ author_profile: true
       <p class="org-name">American Journal of Biomedical and Life Sciences</p>
       <p class="period">2024–Present</p>
     </div>
-    
+
+    <div class="editorial-item">
+      <h3>Reviewer</h3>
+      <p class="org-name">Imaging Neuroscience</p>
+      <p class="period">2026–Present</p>
+    </div>
+
     <div class="editorial-item">
       <h3>Reviewer</h3>
       <p class="org-name">Frontiers in Computational Neuroscience</p>
@@ -226,37 +202,6 @@ author_profile: true
       <h3>Member</h3>
       <p class="org-name">Society for Neuroscience (SfN)</p>
       <p class="period">2021–Present</p>
-    </div>
-  </div>
-</section>
-
-<!-- Selected Presentations -->
-<section class="presentations-section">
-  <h2>Selected Presentations</h2>
-  
-  <div class="presentations-list">
-    <div class="presentation-item">
-      <div class="presentation-title">Maturational trajectories of cognitive and prefrontal activity in adolescence</div>
-      <div class="presentation-venue">Johns Hopkins University</div>
-      <div class="presentation-date">January 2024</div>
-    </div>
-    
-    <div class="presentation-item">
-      <div class="presentation-title">Working memory development in adolescent macaques</div>
-      <div class="presentation-venue">Working Memory Symposium</div>
-      <div class="presentation-date">May 2023</div>
-    </div>
-    
-    <div class="presentation-item">
-      <div class="presentation-title">Neuronal activity changes in the macaque prefrontal cortex during adolescence</div>
-      <div class="presentation-venue">Society for Neuroscience</div>
-      <div class="presentation-date">November 2022</div>
-    </div>
-    
-    <div class="presentation-item">
-      <div class="presentation-title">Working memory and prefrontal neural activity of macaques in early adolescence</div>
-      <div class="presentation-venue">Vision Sciences Society</div>
-      <div class="presentation-date">May 2021</div>
     </div>
   </div>
 </section>

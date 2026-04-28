@@ -11,7 +11,7 @@ author_profile: true
   
   <p style="font-size: 1.1em; line-height: 1.6; margin-bottom: 30px;">
     对我有疑问？有兴趣合作？<br>
-    请通过邮箱 <strong>junda.zhu@cshs.org</strong> 联系我。<br>
+    请通过邮箱 <strong>junda.zhu@csmc.edu</strong> 联系我。<br>
     也可以通过下方的其他方式与我取得联系。
   </p>
   

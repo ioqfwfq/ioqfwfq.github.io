@@ -20,7 +20,6 @@ author_profile: true
           <li>IRB协调、GCP/HSR合规</li>
           <li>站点启动、标准操作程序、培训材料</li>
           <li>ISO 14155熟悉、不良事件报告</li>
-          <li>临床与法规科学研究生证书（进行中）</li>
         </ul>
       </div>
 

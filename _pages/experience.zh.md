@@ -143,9 +143,9 @@ author_profile: true
   </div>
 </section>
 
-<!-- Education & Certifications -->
+<!-- Education -->
 <section class="education-section">
-  <h2>教育背景与资质认证</h2>
+  <h2>教育背景</h2>
 
   <div class="education-list">
     <div class="education-item">
@@ -160,36 +160,6 @@ author_profile: true
       <p class="year">2018</p>
     </div>
 
-    <div class="education-item">
-      <h3>研究生证书（进行中）</h3>
-      <p class="institution">临床与法规科学，Cedars‑Sinai</p>
-    </div>
-  </div>
-
-  <div class="certifications-list">
-    <h3>资质认证</h3>
-    <div class="cert-grid">
-      <div class="cert-item">
-        <strong>CITI - GCP</strong>
-        <span>2024–2027</span>
-      </div>
-      <div class="cert-item">
-        <strong>CITI - HSR</strong>
-        <span>2024–2034</span>
-      </div>
-      <div class="cert-item">
-        <strong>CITI - COI</strong>
-        <span>2024–2028</span>
-      </div>
-      <div class="cert-item">
-        <strong>HIPAA</strong>
-        <span>当前有效</span>
-      </div>
-      <div class="cert-item">
-        <strong>Google项目管理</strong>
-        <span>课程</span>
-      </div>
-    </div>
   </div>
 </section>
 
@@ -212,6 +182,12 @@ author_profile: true
 
     <div class="editorial-item">
       <h3>审稿人</h3>
+      <p class="org-name">Imaging Neuroscience</p>
+      <p class="period">2026–至今</p>
+    </div>
+
+    <div class="editorial-item">
+      <h3>审稿人</h3>
       <p class="org-name">Frontiers in Computational Neuroscience</p>
       <p class="period">2024–至今</p>
     </div>
@@ -226,37 +202,6 @@ author_profile: true
       <h3>会员</h3>
       <p class="org-name">Society for Neuroscience (SfN)</p>
       <p class="period">2021–至今</p>
-    </div>
-  </div>
-</section>
-
-<!-- Selected Presentations -->
-<section class="presentations-section">
-  <h2>精选报告</h2>
-
-  <div class="presentations-list">
-    <div class="presentation-item">
-      <div class="presentation-title">青少年时期认知和前额叶活动的成熟轨迹</div>
-      <div class="presentation-venue">Johns Hopkins University</div>
-      <div class="presentation-date">2024年1月</div>
-    </div>
-
-    <div class="presentation-item">
-      <div class="presentation-title">青少年恒河猴的工作记忆发育</div>
-      <div class="presentation-venue">Working Memory Symposium</div>
-      <div class="presentation-date">2023年5月</div>
-    </div>
-
-    <div class="presentation-item">
-      <div class="presentation-title">青少年时期恒河猴前额叶皮层神经元活动变化</div>
-      <div class="presentation-venue">Society for Neuroscience</div>
-      <div class="presentation-date">2022年11月</div>
-    </div>
-
-    <div class="presentation-item">
-      <div class="presentation-title">早期青少年恒河猴的工作记忆与前额叶神经活动</div>
-      <div class="presentation-venue">Vision Sciences Society</div>
-      <div class="presentation-date">2021年5月</div>
     </div>
   </div>
 </section>

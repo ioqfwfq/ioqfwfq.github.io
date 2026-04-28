@@ -20,7 +20,6 @@ author_profile: true
           <li>IRB coordination, GCP/HSR compliance</li>
           <li>Site start-up, SOPs, training materials</li>
           <li>ISO 14155 familiarity, AE reporting</li>
-          <li>Graduate Certificate in Clinical & Regulatory Sciences (in progress)</li>
         </ul>
       </div>
 

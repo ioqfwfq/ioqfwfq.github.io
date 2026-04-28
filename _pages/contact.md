@@ -11,7 +11,7 @@ author_profile: true
   
   <p style="font-size: 1.1em; line-height: 1.6; margin-bottom: 30px;">
     Have a question about me? Interested in connecting? <br>
-    Please email me at <strong>junda.zhu@cshs.org</strong>.<br>
+    Please email me at <strong>junda.zhu@csmc.edu</strong>.<br>
     You can also connect with me via the links below.
   </p>
   
