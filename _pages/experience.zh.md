@@ -189,6 +189,12 @@ author_profile: true
 
     <div class="editorial-item">
       <h3>审稿人</h3>
+      <p class="org-name">Experimental Brain Research</p>
+      <p class="period">2026–至今</p>
+    </div>
+
+    <div class="editorial-item">
+      <h3>审稿人</h3>
       <p class="org-name">Frontiers in Computational Neuroscience</p>
       <p class="period">2024–至今</p>
     </div>

@@ -189,6 +189,12 @@ author_profile: true
 
     <div class="editorial-item">
       <h3>Reviewer</h3>
+      <p class="org-name">Experimental Brain Research</p>
+      <p class="period">2026–Present</p>
+    </div>
+
+    <div class="editorial-item">
+      <h3>Reviewer</h3>
       <p class="org-name">Frontiers in Computational Neuroscience</p>
       <p class="period">2024–Present</p>
     </div>
