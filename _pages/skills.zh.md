@@ -19,7 +19,7 @@ author_profile: true
         <ul>
           <li>IRB 协调，GCP / HSR 合规</li>
           <li>项目启动、SOP 与培训材料</li>
-          <li>熟悉 ISO 14155；不良事件 (AE) 报告</li>
+          <li>不良事件 (AE) 报告</li>
         </ul>
       </div>
 
@@ -34,11 +34,11 @@ author_profile: true
       </div>
 
       <div class="skill-card">
-        <h3><i class="fas fa-check-double"></i> 医疗器械验证支持</h3>
+        <h3><i class="fas fa-check-double"></i> 器械评估与反馈</h3>
         <ul>
           <li>Beta 测试与可用性评估</li>
           <li>信号质量评估与系统化反馈</li>
-          <li>参与设计迭代与风险文档撰写</li>
+          <li>向器械厂商提供结构化反馈</li>
         </ul>
       </div>
 
@@ -62,7 +62,7 @@ author_profile: true
       <div class="skill-card">
         <h3><i class="fas fa-pen"></i> 学术写作与发表</h3>
         <ul>
-          <li>论文撰写与发表（12+ 篇同行评议）</li>
+          <li>论文撰写与发表（8 篇同行评议期刊论文）</li>
           <li>摘要、海报与会议报告</li>
           <li>针对不同受众的数据可视化</li>
           <li>ICMJE 与 GPP 出版规范</li>

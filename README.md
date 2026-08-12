@@ -1,6 +1,6 @@
 # Junda Zhu's Personal Website
 
-This is the source code for my personal academic website, accessible at [https://ioqfwfq.github.io](https://ioqfwfq.github.io).
+This is the source code for my personal academic website, accessible at [https://zhujunda.com](https://zhujunda.com). [zhujunda.net](https://zhujunda.net) redirects to the same site — see [`zhujunda-net-redirect/`](zhujunda-net-redirect/README.md) for setup.
 
 ## Site Overview
 

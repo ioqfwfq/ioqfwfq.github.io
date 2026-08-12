@@ -43,6 +43,7 @@ include:
 exclude:
   - docs
   - google_scholar_crawler
+  - zhujunda-net-redirect
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -113,7 +114,7 @@ defaults:
       author_profile: true
 
 # URL
-url: ""  # the base hostname & protocol for your site
+url: "https://zhujunda.com"  # the base hostname & protocol for your site
 baseurl: ""  # the subpath of your site, e.g. /blog
 
 # Sass/SCSS

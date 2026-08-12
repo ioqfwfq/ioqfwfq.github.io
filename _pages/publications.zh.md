@@ -60,30 +60,6 @@ author_profile: true
     <div class="publication-item">
       <div class="pub-year">2024</div>
       <div class="pub-content">
-        <h3>Neural Circuits and Processes of Working Memory</h3>
-        <p class="pub-authors"><strong>Zhu, J.</strong>, Constantinidis, C.</p>
-        <p class="pub-journal"><em>Encyclopedia of the Human Brain</em>, 2nd ed.</p>
-        <div class="pub-links">
-          <span class="pub-citation" data='jzhu2023:ALROH1vI_8AC'></span>
-        </div>
-      </div>
-    </div>
-
-    <div class="publication-item">
-      <div class="pub-year">2024</div>
-      <div class="pub-content">
-        <h3>White Matter Microstructure and Working Memory of Macaques in Adolescence</h3>
-        <p class="pub-authors">Machado, A., <strong>Zhu, J.</strong>, et al.</p>
-        <p class="pub-journal"><em>Journal of Vision</em> 24(10):981</p>
-        <div class="pub-links">
-          <span class="pub-citation" data='jzhu2023:QEMCV1vI_8AC'></span>
-        </div>
-      </div>
-    </div>
-
-    <div class="publication-item">
-      <div class="pub-year">2024</div>
-      <div class="pub-content">
         <h3>Parallel signatures of cognitive maturation in primate antisaccade performance and prefrontal activity</h3>
         <p class="pub-authors"><strong>Zhu, J.</strong>, Zhou, X.M., et al.</p>
         <p class="pub-journal"><em>iScience</em> 27(8)</p>
@@ -130,18 +106,6 @@ author_profile: true
     </div>
 
     <div class="publication-item">
-      <div class="pub-year">2021</div>
-      <div class="pub-content">
-        <h3>Working Memory and Prefrontal Neural Activity of Macaques in Early Adolescence</h3>
-        <p class="pub-authors"><strong>Zhu, J.</strong>, Lodish, A.W., et al.</p>
-        <p class="pub-journal"><em>Journal of Vision</em> 21(9):2913</p>
-        <div class="pub-links">
-          <span class="pub-citation" data='jzhu2023:ADOLESCENT_WM_ID'></span>
-        </div>
-      </div>
-    </div>
-
-    <div class="publication-item">
       <div class="pub-year">2019</div>
       <div class="pub-content">
         <h3>The m6A reader YTHDF1 regulates axon guidance through translational control of Robo3.1 expression</h3>
@@ -162,6 +126,41 @@ author_profile: true
         <div class="pub-links">
           <span class="pub-citation" data='jzhu2023:DYNAMIC_M6A_ID'></span>
         </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="book-chapters-section">
+    <h2>书籍章节</h2>
+
+    <div class="publication-item">
+      <div class="pub-year">2024</div>
+      <div class="pub-content">
+        <h3>Neural Circuits and Processes of Working Memory</h3>
+        <p class="pub-authors"><strong>Zhu, J.</strong>, Constantinidis, C.</p>
+        <p class="pub-journal"><em>Encyclopedia of the Human Brain</em>, 2nd ed.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="conference-abstracts-section">
+    <h2>会议摘要</h2>
+
+    <div class="publication-item">
+      <div class="pub-year">2024</div>
+      <div class="pub-content">
+        <h3>White Matter Microstructure and Working Memory of Macaques in Adolescence</h3>
+        <p class="pub-authors">Machado, A., <strong>Zhu, J.</strong>, et al.</p>
+        <p class="pub-journal"><em>Journal of Vision</em> 24(10):981 (VSS 摘要)</p>
+      </div>
+    </div>
+
+    <div class="publication-item">
+      <div class="pub-year">2021</div>
+      <div class="pub-content">
+        <h3>Working Memory and Prefrontal Neural Activity of Macaques in Early Adolescence</h3>
+        <p class="pub-authors"><strong>Zhu, J.</strong>, Lodish, A.W., et al.</p>
+        <p class="pub-journal"><em>Journal of Vision</em> 21(9):2913 (VSS 摘要)</p>
       </div>
     </div>
   </div>

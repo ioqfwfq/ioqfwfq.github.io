@@ -32,7 +32,7 @@ author_profile: true
           </p>
           <div class="achievements">
             <ul>
-              <li>Built from scratch cognitive control task for bedside/OR and online use (>100 participants); deployed across ~10 bedside patients and ~5 intra‑op sessions</li>
+              <li>Built from scratch cognitive control task for bedside/OR and online use (>100 participants); deployed across ~15 bedside patients and ~10 intra‑op sessions</li>
               <li>Beta‑tested next‑generation laminar probes in NHP and human intra‑operative settings; provided usability and signal‑quality feedback</li>
               <li>Authored SOPs/checklists; coordinated IRB submissions and amendments; prepared data briefs for clinical and engineering teams</li>
               <li>Standardized Python/MATLAB analysis pipelines; open‑sourced utility package on GitHub for reproducibility</li>

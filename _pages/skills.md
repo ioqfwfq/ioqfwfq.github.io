@@ -19,7 +19,7 @@ author_profile: true
         <ul>
           <li>IRB coordination, GCP/HSR compliance</li>
           <li>Site start-up, SOPs, training materials</li>
-          <li>ISO 14155 familiarity, AE reporting</li>
+          <li>AE reporting</li>
         </ul>
       </div>
 
@@ -34,11 +34,11 @@ author_profile: true
       </div>
 
       <div class="skill-card">
-        <h3><i class="fas fa-check-double"></i> Medical Device V&V Support</h3>
+        <h3><i class="fas fa-check-double"></i> Device Evaluation & Feedback</h3>
         <ul>
           <li>Beta-testing & usability evaluation</li>
           <li>Signal quality assessment & systematic feedback</li>
-          <li>Contributing to design iteration & risk documentation</li>
+          <li>Structured feedback to device manufacturers</li>
         </ul>
       </div>
 
@@ -62,7 +62,7 @@ author_profile: true
       <div class="skill-card">
         <h3><i class="fas fa-pen"></i> Scientific Writing & Publishing</h3>
         <ul>
-          <li>Manuscript writing & publication (12+ peer-reviewed)</li>
+          <li>Manuscript writing & publication (8 peer-reviewed journal articles)</li>
           <li>Abstract, poster, & congress presentations</li>
           <li>Data visualization for diverse audiences</li>
           <li>ICMJE & Good Publication Practice standards</li>
