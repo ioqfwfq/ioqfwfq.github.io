@@ -24,7 +24,7 @@ redirect_from:
       <p class="hero-position">博士后科学家 · Cedars-Sinai Medical Center · Los Angeles, CA</p>
 
       <div class="hero-cta">
-        <a href="assets/Junda_Zhu_CV_cn_20260428.html" target="_blank" class="btn-primary">
+        <a href="assets/Junda_Zhu_CV_cn.html" target="_blank" class="btn-primary">
           <i class="fas fa-download"></i> 下载简历
         </a>
         <a href="/zh/contact/" class="btn-secondary">

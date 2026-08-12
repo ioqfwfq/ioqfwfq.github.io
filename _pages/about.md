@@ -26,7 +26,7 @@ redirect_from:
         <a href="/contact/" class="btn-primary">
           <i class="fas fa-envelope"></i> Contact Me
         </a>
-        <a href="assets/Junda_Zhu_CV_20260428.html" target="_blank" class="btn-secondary">
+        <a href="assets/Junda_Zhu_CV.html" target="_blank" class="btn-secondary">
           <i class="fas fa-download"></i> Download CV
         </a>
       </div>
