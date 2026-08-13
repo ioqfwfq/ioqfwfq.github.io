@@ -21,7 +21,7 @@ bing_site_verification   : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"  # Add verificatio
 # Site Author
 author:
   name             : "Junda Zhu, Ph.D."
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/profile-photo-small.jpg"
   bio              : "Postdoctoral Scientist | Cedars-Sinai Medical Center"
   location         : "Los Angeles, CA"
   employer         : "Cedars-Sinai Medical Center"

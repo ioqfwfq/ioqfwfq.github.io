@@ -3,17 +3,11 @@ main:
   - title: "Home"
     url: "/"
 
-  - title: "Experience"
-    url: "/experience/"
-
-  - title: "Skills"
-    url: "/skills/"
+  - title: "Profile"
+    url: "/profile/"
 
   - title: "Research"
     url: "/research/"
-
-  - title: "Publications"
-    url: "/publications/"
 
   - title: "Contact"
     url: "/contact/"
@@ -23,17 +17,11 @@ main-zh:
   - title: "首页"
     url: "/zh/"
 
-  - title: "工作经历"
-    url: "/zh/experience/"
-
-  - title: "技能"
-    url: "/zh/skills/"
+  - title: "个人经历"
+    url: "/zh/profile/"
 
   - title: "研究"
     url: "/zh/research/"
-
-  - title: "论文发表"
-    url: "/zh/publications/"
 
   - title: "联系方式"
     url: "/zh/contact/"

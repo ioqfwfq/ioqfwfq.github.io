@@ -19,7 +19,7 @@ author_profile: true
       <div class="timeline-marker"></div>
       <div class="timeline-content">
         <div class="timeline-header">
-          <h3>博士后科学家，神经外科</h3>
+          <h3>博士后研究员，神经外科</h3>
           <div class="timeline-meta">
             <span class="company">Cedars‑Sinai Medical Center</span>
             <span class="duration">2024 - 至今</span>
@@ -28,11 +28,11 @@ author_profile: true
         </div>
         <div class="timeline-body">
           <p class="role-description">
-            人类颅内研究（床旁/手术室）、神经/行为任务设计、分析流程及跨团队沟通。
+            人类颅内研究（病房/手术室）、神经与行为任务设计、分析流程及跨团队沟通。
           </p>
           <div class="achievements">
             <ul>
-              <li>从零构建认知控制任务，覆盖床旁、手术室与线上场景（>100 名参与者）；已在约 15 例床旁患者与约 10 例术中实验中应用</li>
+              <li>从零构建认知控制任务，适用于病房、手术室与线上研究（>100 名参与者）；已在约 15 名病房患者与约 10 例术中实验中应用</li>
               <li>在非人灵长类与人类术中环境中测试新一代 laminar 探针；反馈可用性与信号质量</li>
               <li>撰写 SOP 与检查清单；协调 IRB 提交与修订；为临床与工程团队准备数据汇报</li>
               <li>标准化 Python / MATLAB 分析流程；在 GitHub 开源工具包以保障可复现性</li>
@@ -88,7 +88,7 @@ author_profile: true
             <ul>
               <li>第一作者论文：Nature Neuroscience (2025)、iScience (2024)、Journal of Neurophysiology (2023)</li>
               <li>建立神经影像与电生理数据的可复现分析流程</li>
-              <li>指导本科生与研究生开展数据分析和实验设计</li>
+              <li>指导本科生与研究生进行数据分析和实验设计</li>
               <li>在 Society for Neuroscience、Vision Sciences Society 与 CRCNS PI 会议上汇报研究成果</li>
             </ul>
           </div>
@@ -214,4 +214,3 @@ author_profile: true
 </section>
 
 </div>
-

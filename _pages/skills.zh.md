@@ -28,7 +28,7 @@ author_profile: true
         <ul>
           <li>认知结局指标的开发与验证</li>
           <li>适用于临床试验的任务设计</li>
-          <li>多场景应用（床旁、手术室、线上）</li>
+          <li>适用于病房、手术室和线上研究</li>
           <li>标准化执行流程与 SOP</li>
         </ul>
       </div>
@@ -140,6 +140,5 @@ author_profile: true
   </section>
 
 </div>
-
 
 
