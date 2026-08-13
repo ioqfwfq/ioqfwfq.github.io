@@ -24,12 +24,6 @@
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}" target="_blank"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
-       {% if author.researchgate %}
-        <li><a href="{{ author.researchgate }}" target="_blank"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
-      {% endif %}
-      {% if author.twitter %}
-        <li><a href="https://twitter.com/{{ author.twitter }}" target="_blank"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
-      {% endif %}
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}" target="_blank"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
       {% endif %}
@@ -118,12 +112,6 @@
       {% endif %}
       {% if author.keybase %}
         <a href="https://keybase.io/{{ author.keybase }}" target="_blank"><i class="fas fa-fw fa-key" aria-hidden="true"></i></a>
-      {% endif %}
-       {% if author.researchgate %}
-        <a href="{{ author.researchgate }}" target="_blank"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if author.twitter %}
-        <a href="https://twitter.com/{{ author.twitter }}" target="_blank"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.facebook %}
         <a href="https://www.facebook.com/{{ author.facebook }}" target="_blank"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i></a>

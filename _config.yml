@@ -28,12 +28,8 @@ author:
   pubmed           :  # Optional: Link to PubMed search or author profile
   googlescholar    : "https://scholar.google.com/citations?user=baTkGRAAAAAJ"
   email            : "junda.zhu@csmc.edu"
-  researchgate     : "https://www.researchgate.net/profile/Junda-Zhu-9"
   github           : "ioqfwfq"
   linkedin         : "jundazhu"
-  dblp             :  # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0002-0221-5289"
-  twitter          : "JundaZhu"  # updated to correct X/Twitter handle
 
 # Reading Files
 include:
