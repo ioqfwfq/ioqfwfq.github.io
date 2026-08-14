@@ -1,6 +1,14 @@
 _site/
 push.sh
 .DS_Store
+**/.DS_Store
 .sass-cache
 .jekyll-metadata
 
+# AI assistant local artifacts
+.claude/
+.zcode/
+
+# Editor cruft
+.vscode/
+.idea/
