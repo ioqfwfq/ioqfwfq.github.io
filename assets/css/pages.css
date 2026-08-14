@@ -28,7 +28,7 @@ html[lang="zh"] {
 }
 
 html, body { background: var(--paper); }
-body { color: var(--ink); font-family: var(--font-serif); line-height: 1.72; }
+body { color: var(--ink); font-family: var(--font-serif); line-height: 1.72; overflow-wrap: break-word; }
 a { color: var(--accent); transition: color .15s ease; }
 a:hover { color: var(--warm); }
 
@@ -79,7 +79,7 @@ a:hover { color: var(--warm); }
 .page__content h3, .publications-container h3, .research-container h3, .contact-container h3 { color: var(--ink); font-family: var(--font-serif); }
 .page__content p { margin-bottom: 1.15em; }
 .page__content ul li { margin-bottom: .35em; }
-.research-intro { max-width: 680px; font-size: var(--text-md); line-height: 1.65; }
+.research-container .research-intro { max-width: 680px; font-size: var(--text-md); line-height: 1.65; }
 .research-list, .work-list { margin: 0; padding: 0; list-style: none; }
 .research-list li, .work-item { padding: 1.15em 0; border-top: 1px solid var(--rule); }
 .research-list li:last-child, .work-item:last-child { border-bottom: 1px solid var(--rule); }
@@ -112,7 +112,7 @@ a:hover { color: var(--warm); }
 .hero-content, .hero-text { padding: 0; text-align: left; }
 .hero-section .hero-title { margin: 0 0 .3em; color: var(--ink); font: var(--text-display)/1.05 var(--font-serif); letter-spacing: -.03em; }
 .hero-section .hero-position { margin: 0; color: var(--muted); font: var(--text-sm)/1.5 var(--font-sans); }
-.hero-cta { justify-content: flex-start; gap: 1.25em; margin-top: 1.6em; }
+.hero-cta { justify-content: flex-start; flex-wrap: wrap; gap: 1.25em; margin-top: 1.6em; }
 .hero-cta > a + a { margin-left: 1.25em; }
 .btn-primary, .btn-secondary, .btn-outline, .btn-readmore, .btn-google-scholar { padding: 0; color: var(--accent); background: transparent; border: 0; border-bottom: 1px solid var(--accent); border-radius: 0; font: var(--text-xs) var(--font-sans); letter-spacing: .05em; text-transform: uppercase; }
 .btn-primary:hover, .btn-secondary:hover, .btn-outline:hover, .btn-readmore:hover, .btn-google-scholar:hover { color: var(--warm); background: transparent; border-color: var(--warm); transform: none; box-shadow: none; }
@@ -122,7 +122,7 @@ a:hover { color: var(--warm); }
 section { padding: 0; }
 .overview-section, .publications-section { background: transparent; }
 .section-title { margin: 2.4em 0 .7em; color: var(--ink); font: var(--text-lg) var(--font-serif); text-align: left; }
-.lead { max-width: 680px; margin: 0; color: var(--ink); font-size: var(--text-md); line-height: 1.65; text-align: left; }
+.overview-section .lead { max-width: 680px; margin: 0; color: var(--ink); font-size: var(--text-md); line-height: 1.65; text-align: left; }
 
 .google-scholar-cta { margin: 1.5em 0 3em; text-align: left; }
 .publications-list h2, .preprints-section h2 { margin-top: 2.4em; padding-bottom: .45em; border-bottom: 1px solid var(--rule); color: var(--ink); }
@@ -137,7 +137,7 @@ section { padding: 0; }
 .preprints-section { margin-top: 3em; padding-top: 0; border-top: 0; }
 
 .contact-container { max-width: none !important; margin: 0 !important; padding: 0 !important; }
-.contact-lede { font-size: var(--text-md); }
+.contact-container .contact-lede { font-size: var(--text-md); }
 .contact-links ul { padding: 0; list-style: none; }
 .contact-links li { margin-bottom: .8em !important; }
 .contact-links a { display: inline-flex; align-items: center; gap: .6em; text-decoration: none !important; }
@@ -155,7 +155,7 @@ section { padding: 0; }
 }
 @media (max-width: 924px) {
   #main { margin-top: 1.8em; padding: 0 1.25em; }
-  .hero-title { font-size: 2.25rem; }
+  .hero-section .hero-title { font-size: 2.25rem; }
   .masthead__inner-wrap { padding-right: 4.5em; }
   .profile_box { display: grid; grid-template-columns: 82px minmax(0, 1fr); column-gap: 1em; align-items: start; }
   .profile_box .author__avatar { grid-column: 1; }
@@ -165,4 +165,7 @@ section { padding: 0; }
 }
 @media (max-width: 600px) {
   .publication-item { grid-template-columns: 3.5em 1fr; }
+  .overview-section .lead,
+  .research-container .research-intro,
+  .contact-container .contact-lede { font-size: var(--text-base); }
 }

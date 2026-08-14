@@ -11,7 +11,7 @@
               </a>
             </li>
             {% for link in site.data.navigation.main-zh %}
-              <li class="masthead__menu-item"><a href="{% if link.url == '/zh/' %}/zh/?v=editorial-20260812{% else %}{{ domain }}{{ link.url }}{% endif %}">{{ link.title }}</a></li>
+              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
             {% endfor %}
           {% else %}
             <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item contact-button-container">
@@ -20,7 +20,7 @@
               </a>
             </li>
             {% for link in site.data.navigation.main %}
-              <li class="masthead__menu-item"><a href="{% if link.url == '/' %}/?v=editorial-20260812{% else %}{{ domain }}{{ link.url }}{% endif %}">{{ link.title }}</a></li>
+              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
             {% endfor %}
           {% endif %}
         </ul>
