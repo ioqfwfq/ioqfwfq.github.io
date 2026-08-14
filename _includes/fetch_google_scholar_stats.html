@@ -7,12 +7,17 @@
         {% endif %}
         $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
             var totalCitation = data['citedby']
-            document.getElementById('total_cit').innerHTML = totalCitation;
-            var citationEles = document.getElementsByClassName('show_paper_citations')
+            var totalCitationEle = document.getElementById('gs_total_citations')
+            if (totalCitationEle) {
+                totalCitationEle.innerHTML = totalCitation + '+';
+            }
+            var citationEles = document.querySelectorAll('.show_paper_citations, .pub-citation')
             Array.prototype.forEach.call(citationEles, element => {
                 var paperId = element.getAttribute('data')
-                var numCitations = data['publications'][paperId]['num_citations']
-                element.innerHTML = '| Citations: ' + numCitations;
+                if (paperId && data['publications'][paperId]) {
+                    var numCitations = data['publications'][paperId]['num_citations']
+                    element.innerHTML = '| Citations: ' + numCitations;
+                }
             });
         });
     })

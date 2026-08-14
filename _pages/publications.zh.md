@@ -11,7 +11,7 @@ author_profile: true
 
   <div class="pub-stats">
     <div class="stat-item">
-      <div class="stat-number">643+</div>
+      <div class="stat-number" id="gs_total_citations">643+</div>
       <div class="stat-label">总引用次数</div>
     </div>
     <div class="stat-item">
