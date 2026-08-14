@@ -1,7 +1,7 @@
 ---
 permalink: /zh/profile/
 title: "个人经历"
-excerpt: "朱君达博士的专业经历"
+excerpt: "专业经历"
 layout: default.zh
 author_profile: true
 redirect_from: /zh/experience/

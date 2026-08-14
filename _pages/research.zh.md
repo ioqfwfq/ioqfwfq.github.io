@@ -1,7 +1,7 @@
 ---
 permalink: /zh/research/
 title: "研究"
-excerpt: "朱君达博士的研究方向与代表性工作"
+excerpt: "研究方向与代表性工作"
 layout: default.zh
 author_profile: true
 ---

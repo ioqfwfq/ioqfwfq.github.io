@@ -1,7 +1,7 @@
 ---
 permalink: /zh/publications/
 title: "论文发表"
-excerpt: "朱君达博士的见刊论文"
+excerpt: "见刊论文"
 layout: default.zh
 author_profile: true
 ---
