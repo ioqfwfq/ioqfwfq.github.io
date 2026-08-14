@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /zh/
-title: "朱君达 博士"
+title: "朱君达博士"
 excerpt: "神经科学家与生物医学工程师"
 author_profile: true
 redirect_from: 
@@ -13,7 +13,7 @@ redirect_from:
 <div class="hero-section">
   <div class="hero-content">
     <div class="hero-text">
-      <h1 class="hero-title">朱君达 博士 (Junda Zhu, Ph.D.)</h1>
+      <h1 class="hero-title">朱君达博士</h1>
       <p class="hero-position">博士后研究员 · Cedars-Sinai Medical Center · Los Angeles, CA</p>
 
       <div class="hero-cta">
@@ -38,9 +38,9 @@ redirect_from:
     <h2 class="section-title">简介</h2>
     <div class="overview-content">
       <p class="lead">
-        我是一名神经科学家和生物医学工程师，目前在 Cedars-Sinai Medical Center 神经外科担任博士后研究员。我的研究位于神经科学与医疗技术的交会处，经历涵盖分子生物学、神经系统发育、神经影像、电生理、计算分析，以及与神经外科和神经内科相关的人类研究。我与不同领域的团队合作，设计研究、开发实用工具，并将复杂的神经数据转化为清晰而有用的证据。
+        我是一名神经科学家和生物医学工程师，目前在 Cedars-Sinai Medical Center 神经外科担任博士后研究员。我的研究处于神经科学与医疗技术的交叉领域，学术研究涵盖分子生物学、神经系统发育、神经影像、电生理、计算分析，以及与神经外科和神经内科相关的人类研究。我与不同领域的团队合作，设计研究方案、开发实用工具，并将复杂的神经数据转化为清晰、可靠的证据。
       </p>
-      <p class="home-explore">了解我的<a href="/zh/profile/">个人经历</a>、<a href="/zh/research/">科研</a>与<a href="/zh/publications/">论文</a>。</p>
+      <p class="home-explore">欢迎了解我的<a href="/zh/profile/">个人经历</a>、<a href="/zh/research/">研究方向</a>与<a href="/zh/publications/">发表论文</a>。</p>
     </div>
   </div>
 </section>
