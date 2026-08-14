@@ -20,7 +20,7 @@ google_site_verification : "PQ3f2uANGh_0bWdf9FERGuRDKvtHePTs4EkbfSf0IvI"
 # Site Author
 author:
   name             : "Junda Zhu, Ph.D."
-  avatar           : "images/profile-photo-small.jpg"
+  avatar           : "/images/profile-photo-small.jpg"
   bio              : "Postdoctoral Scientist | Cedars-Sinai Medical Center"
   location         : "Los Angeles, CA"
   employer         : "Cedars-Sinai Medical Center"
