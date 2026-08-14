@@ -15,7 +15,6 @@ This personal website showcases my:
 
 ### Search Engine Verification Status
 - **Google Search Console**: ✓ Verified
-- **Bing Webmaster Tools**: ✓ Verified (via Google import)
 
 ### Accessing Search Statistics
 1. **Google Search Console**:
@@ -24,11 +23,9 @@ This personal website showcases my:
    - Select your verified property
    - View performance data, indexing status, and other metrics
 
-2. **Bing Webmaster Tools**:
-   - Go to [Bing Webmaster Tools](https://www.bing.com/webmasters)
-   - Log in with your Microsoft account
-   - Select your verified site
-   - Access search performance data, SEO reports, and other tools
+### Web Analytics
+- Uses [Cloudflare Web Analytics](https://dash.cloudflare.com/) (cookieless, no consent banner needed)
+- To enable: copy the beacon token from the Cloudflare dashboard and set `cloudflare_analytics_token` in `_config.yml`
 
 ## Local Development
 
@@ -60,11 +57,11 @@ To run the site locally:
 This site features automatic updating of Google Scholar citations through GitHub Actions:
 - Citation data is stored in the `google-scholar-stats` branch
 - Updates daily at 08:00 UTC
-- Uses the Google Scholar ID configured in your settings
+- The total-citation figure on the Publications page fills in from this data at page load (the hardcoded number is only a fallback)
 
 ## Website Structure
 
-- `_pages/`: Content pages
+- `_pages/`: Content pages (English + `*.zh.md` Chinese versions)
 - `_includes/`: HTML components
 - `_layouts/`: Page templates
 - `_sass/`: Styling
@@ -76,9 +73,6 @@ This site features automatic updating of Google Scholar citations through GitHub
 ## Credits and Acknowledgements
 
 - Base template: [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io)
-- Website enhancements and features were improved with assistance from [Claude](https://www.anthropic.com/claude) by Anthropic
-- Search engine optimization implemented with Claude's guidance
-- Navigation and UI improvements by Claude
 
 ## License
 
