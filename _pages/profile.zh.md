@@ -11,8 +11,8 @@ redirect_from: /zh/experience/
   <h1>个人经历</h1>
 
   <p class="profile-credentials">
-    <strong>神经科学博士</strong> · Vanderbilt University · 2024<br>
-    <strong>生物信息学理学学士</strong> · 南方科技大学 · 2018
+    <strong>神经科学博士</strong> · <a href="https://www.usnews.com/best-colleges/vanderbilt-3535" target="_blank" rel="noopener">Vanderbilt University</a> · 2024<br>
+    <strong>生物信息学理学学士</strong> · <a href="https://www.timeshighereducation.com/world-university-rankings/southern-university-science-and-technology-sustech" target="_blank" rel="noopener">南方科技大学</a> · 2018
   </p>
 
   <section class="profile-section">

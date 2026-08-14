@@ -35,7 +35,7 @@ redirect_from:
     <h2 class="section-title">About</h2>
     <div class="overview-content">
       <p class="lead">
-        I am a neuroscientist and biomedical engineer, currently a Postdoctoral Scientist in Neurosurgery at Cedars-Sinai Medical Center. My work sits at the intersection of neuroscience and medical technology, with experience spanning molecular biology, nervous-system development, neuroimaging, electrophysiology, computational analysis, and human research relevant to neurosurgery and neurology. I work across disciplines to design studies, build practical tools, and turn complex neural data into clear, useful evidence.
+        I am a neuroscientist and biomedical engineer, currently a Postdoctoral Scientist in Neurosurgery at <a href="https://health.usnews.com/best-hospitals/area/ca/cedars-sinai-medical-center-6930444" target="_blank" rel="noopener">Cedars-Sinai Medical Center</a>. My work sits at the intersection of neuroscience and medical technology, with experience spanning molecular biology, nervous-system development, neuroimaging, electrophysiology, computational analysis, and human research relevant to neurosurgery and neurology. I work across disciplines to design studies, build practical tools, and turn complex neural data into clear, useful evidence.
       </p>
       <p class="home-explore">Explore my <a href="/profile/">profile</a>, <a href="/research/">research</a>, and <a href="/publications/">publications</a>.</p>
     </div>

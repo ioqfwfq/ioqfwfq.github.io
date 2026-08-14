@@ -38,7 +38,7 @@ redirect_from:
     <h2 class="section-title">简介</h2>
     <div class="overview-content">
       <p class="lead">
-        我是一名神经科学家和生物医学工程师，目前在 Cedars-Sinai Medical Center 神经外科担任博士后研究员。我的研究处于神经科学与医疗技术的交叉领域，学术研究涵盖分子生物学、神经系统发育、神经影像、电生理、计算分析，以及与神经外科和神经内科相关的人类研究。我与不同领域的团队合作，设计研究方案、开发实用工具，并将复杂的神经数据转化为清晰、可靠的证据。
+        我是一名神经科学家和生物医学工程师，目前在 <a href="https://health.usnews.com/best-hospitals/area/ca/cedars-sinai-medical-center-6930444" target="_blank" rel="noopener">Cedars-Sinai Medical Center</a> 神经外科担任博士后研究员。我的研究处于神经科学与医疗技术的交叉领域，学术研究涵盖分子生物学、神经系统发育、神经影像、电生理、计算分析，以及与神经外科和神经内科相关的人类研究。我与不同领域的团队合作，设计研究方案、开发实用工具，并将复杂的神经数据转化为清晰、可靠的证据。
       </p>
       <p class="home-explore">欢迎了解我的<a href="/zh/profile/">个人经历</a>、<a href="/zh/research/">研究方向</a>与<a href="/zh/publications/">发表论文</a>。</p>
     </div>

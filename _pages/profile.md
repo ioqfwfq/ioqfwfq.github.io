@@ -11,8 +11,8 @@ redirect_from: /experience/
   <h1>Profile</h1>
 
   <p class="profile-credentials">
-    <strong>Ph.D. in Neuroscience</strong> · Vanderbilt University · 2024<br>
-    <strong>B.S. in Bioinformatics</strong> · Southern University of Science and Technology · 2018
+    <strong>Ph.D. in Neuroscience</strong> · <a href="https://www.usnews.com/best-colleges/vanderbilt-3535" target="_blank" rel="noopener">Vanderbilt University</a> · 2024<br>
+    <strong>B.S. in Bioinformatics</strong> · <a href="https://www.timeshighereducation.com/world-university-rankings/southern-university-science-and-technology-sustech" target="_blank" rel="noopener">Southern University of Science and Technology</a> · 2018
   </p>
 
   <section class="profile-section">
