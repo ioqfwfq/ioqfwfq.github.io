@@ -1,7 +1,7 @@
 ---
 permalink: /zh/publications/
 title: "论文发表"
-excerpt: "朱君达博士的论文发表"
+excerpt: "朱君达博士的见刊论文"
 layout: default.zh
 author_profile: true
 ---
@@ -50,7 +50,7 @@ author_profile: true
       <div class="pub-content">
         <h3>Laminar pattern of adolescent development changes in working memory neuronal activity</h3>
         <p class="pub-authors"><strong>Zhu, J.</strong>, Hammond, B.M., Zhou, X.M., Constantinidis, C.</p>
-        <p class="pub-journal"><em>Journal of Neurophysiology</em> 130(4):980-989</p>
+        <p class="pub-journal"><em>Journal of Neurophysiology</em> 130(4):980–989</p>
       </div>
     </div>
 
@@ -77,7 +77,7 @@ author_profile: true
       <div class="pub-content">
         <h3>The m6A reader YTHDF1 regulates axon guidance through translational control of Robo3.1 expression</h3>
         <p class="pub-authors">Zhuang, M., Li, X., <strong>Zhu, J.</strong>, et al.</p>
-        <p class="pub-journal"><em>Nucleic Acids Research</em> 47(9):4765-4777</p>
+        <p class="pub-journal"><em>Nucleic Acids Research</em> 47(9):4765–4777</p>
       </div>
     </div>
 
@@ -86,7 +86,7 @@ author_profile: true
       <div class="pub-content">
         <h3>Dynamic m6A modification regulates local translation of mRNA in axons</h3>
         <p class="pub-authors">Yu, J., Chen, M., Huang, H., <strong>Zhu, J.</strong>, et al.</p>
-        <p class="pub-journal"><em>Nucleic Acids Research</em> 46(3):1412-1423</p>
+        <p class="pub-journal"><em>Nucleic Acids Research</em> 46(3):1412–1423</p>
       </div>
     </div>
   </div>
@@ -127,7 +127,7 @@ author_profile: true
   </div>
 
   <div class="preprints-section">
-    <h2>预印本与审稿中</h2>
+    <h2>预印本</h2>
 
     <div class="publication-item preprint">
       <div class="pub-year">2026</div>
