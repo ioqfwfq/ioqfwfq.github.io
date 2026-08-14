@@ -11,12 +11,12 @@ description              : "Neuroscientist | Biomedical Engineer"
 repository               : "ioqfwfq/ioqfwfq.github.io"
 google_scholar_stats_use_cdn : true
 
-# google analytics
-google_analytics_id      : "G-XXXXXXXXXX"  # Replace with your actual Google Analytics ID
+# Cloudflare Web Analytics (cookieless) — paste the beacon token from
+# dash.cloudflare.com → Web Analytics → your site → Snippet
+cloudflare_analytics_token :
 
 # SEO Related
 google_site_verification : "PQ3f2uANGh_0bWdf9FERGuRDKvtHePTs4EkbfSf0IvI"
-bing_site_verification   : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"  # Add verification code from Bing Webmaster Tools
 
 # Site Author
 author:
@@ -27,6 +27,7 @@ author:
   employer         : "Cedars-Sinai Medical Center"
   pubmed           :  # Optional: Link to PubMed search or author profile
   googlescholar    : "https://scholar.google.com/citations?user=baTkGRAAAAAJ"
+  orcid            :  # TODO: add https://orcid.org/0000-xxxx-xxxx-xxxx
   email            : "junda.zhu@csmc.edu"
   github           : "ioqfwfq"
   linkedin         : "jundazhu"

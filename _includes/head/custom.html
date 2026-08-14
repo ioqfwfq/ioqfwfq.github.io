@@ -38,10 +38,12 @@
   },
   "sameAs": [
     "{{ site.author.googlescholar }}",
-    "{{ site.author.researchgate }}",
     "https://github.com/{{ site.author.github }}",
-    "https://www.linkedin.com/in/{{ site.author.linkedin }}",
+    "https://www.linkedin.com/in/{{ site.author.linkedin }}"
+    {%- if site.author.orcid -%}
+    ,
     "{{ site.author.orcid }}"
+    {%- endif -%}
   ]
 }
 </script>

@@ -16,25 +16,11 @@ author_profile: true
   <div class="contact-links">
     <ul>
       <li>
-        <a href="{{ site.author.linkedin | prepend: 'https://www.linkedin.com/in/' }}" target="_blank">
+        <a href="{{ site.author.linkedin | prepend: 'https://www.linkedin.com/in/' }}" target="_blank" rel="noopener">
           <span><i class="fab fa-linkedin-in"></i></span>
           领英 (LinkedIn)
-        </a>
-      </li>
-      <li>
-        <a href="https://twitter.com/JundaZhu" target="_blank">
-          <span><i class="fab fa-twitter"></i></span>
-          Twitter(X)
-        </a>
-      </li>
-      <li>
-        <a href="{{ site.author.researchgate }}" target="_blank">
-          <span><i class="fab fa-researchgate"></i></span>
-          ResearchGate
         </a>
       </li>
     </ul>
   </div>
 </div>
-
-<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>

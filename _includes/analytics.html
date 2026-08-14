@@ -1,13 +1,9 @@
 {% if page.analytics != false %}
+{% if site.cloudflare_analytics_token %}
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_id }}"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+<!-- Cloudflare Web Analytics (cookieless) -->
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js"
+        data-cf-beacon='{"token": "{{ site.cloudflare_analytics_token }}"}'></script>
 
-  gtag('config', "{{ site.google_analytics_id }}");
-</script>
-
+{% endif %}
 {% endif %}
