@@ -26,7 +26,7 @@ redirect_from:
         <a href="/contact/" class="btn-primary">
           <i class="fas fa-envelope"></i> Contact Me
         </a>
-        <a href="assets/Junda_Zhu_CV.html" target="_blank" class="btn-secondary">
+        <a href="/assets/Junda_Zhu_CV.html" target="_blank" class="btn-secondary" rel="noopener">
           <i class="fas fa-download"></i> Download CV
         </a>
       </div>
@@ -54,8 +54,8 @@ redirect_from:
     <h2 class="section-title">Recent</h2>
 
     <ol class="recent-list">
-      <li>Talk at Neureport Vol. 81 on the adolescent brain <span class="recent-links"><a href="https://youtu.be/Ahp4bwk7Fqg" target="_blank">Watch on YouTube</a><a href="https://www.bilibili.com/video/BV1Ho2HB2Ec2/">Watch on Bilibili</a></span></li>
-      <li>Paper published in <em>Nature Neuroscience</em>: longitudinal measures of monkey brain development and cognitive maturation <a href="https://www.nature.com/articles/s41593-025-02076-0" target="_blank">Read the paper</a></li>
+      <li>Talk at Neureport Vol. 81 on the adolescent brain <span class="recent-links"><a href="https://youtu.be/Ahp4bwk7Fqg" target="_blank" rel="noopener">Watch on YouTube</a><a href="https://www.bilibili.com/video/BV1Ho2HB2Ec2/">Watch on Bilibili</a></span></li>
+      <li>Paper published in <em>Nature Neuroscience</em>: longitudinal measures of monkey brain development and cognitive maturation <a href="https://www.nature.com/articles/s41593-025-02076-0" target="_blank" rel="noopener">Read the paper</a></li>
       <li>Joined <em>The Innovation Life</em> as an editor</li>
       <li>Started as Postdoctoral Scientist in Neurosurgery at Cedars-Sinai Medical Center</li>
       <li>Completed a Ph.D. in Neuroscience at Vanderbilt University</li>

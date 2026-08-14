@@ -25,7 +25,7 @@ author_profile: true
   </div>
 
   <div class="google-scholar-cta">
-    <a href="{{ site.author.googlescholar }}" target="_blank" class="btn-google-scholar">
+    <a href="{{ site.author.googlescholar }}" target="_blank" class="btn-google-scholar" rel="noopener">
       <i class="fas fa-graduation-cap"></i> View Full Publication List on Google Scholar
     </a>
   </div>
