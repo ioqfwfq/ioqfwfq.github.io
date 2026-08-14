@@ -40,7 +40,6 @@ include:
 exclude:
   - docs
   - google_scholar_crawler
-  - zhujunda-net-redirect
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -55,9 +54,6 @@ exclude:
   - LICENSE
   - README
   - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
   - config
   - gulpfile.js
   - log
