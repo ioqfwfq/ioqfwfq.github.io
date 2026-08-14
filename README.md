@@ -52,13 +52,6 @@ To run the site locally:
 
 5. View the site at http://127.0.0.1:4000/
 
-## Google Scholar Citations
-
-This site features automatic updating of Google Scholar citations through GitHub Actions:
-- Citation data is stored in the `google-scholar-stats` branch
-- Updates daily at 08:00 UTC
-- The total-citation figure on the Publications page fills in from this data at page load (the hardcoded number is only a fallback)
-
 ## Website Structure
 
 - `_pages/`: Content pages (English + `*.zh.md` Chinese versions)

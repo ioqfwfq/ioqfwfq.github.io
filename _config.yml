@@ -9,7 +9,6 @@
 title                    : "Junda Zhu, Ph.D."
 description              : "Neuroscientist | Biomedical Engineer"
 repository               : "ioqfwfq/ioqfwfq.github.io"
-google_scholar_stats_use_cdn : true
 
 # Cloudflare Web Analytics (cookieless) — paste the beacon token from
 # dash.cloudflare.com → Web Analytics → your site → Snippet
@@ -39,7 +38,6 @@ include:
   - files
 exclude:
   - docs
-  - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
