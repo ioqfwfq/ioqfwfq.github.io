@@ -10,8 +10,7 @@ author_profile: true
   <h1>研究</h1>
 
   <p class="research-intro">
-    我的研究位于神经科学、工程与临床研究的交会处。我结合行为、神经影像、电生理记录与计算建模，
-    探索认知功能，并连接基础科学与人类研究。
+    我的研究处于神经科学、工程与临床医学的交叉领域。我结合行为、神经影像、电生理记录与计算建模，探索认知功能，并衔接基础科学与人类研究。
   </p>
 
   <p class="research-more research-publications-link"><a href="/zh/publications/">查看完整论文列表 →</a></p>
@@ -41,7 +40,7 @@ author_profile: true
     <div class="work-list">
       <article class="work-item">
         <h3>纵向脑结构与活动预测认知成熟</h3>
-        <p>研究青春期猴脑发育的纵向变化及其与工作记忆增长的关系。<em>Nature Neuroscience</em>，2025。</p>
+        <p>研究青春期猴脑发育的纵向变化及其与工作记忆能力发展的关系。<em>Nature Neuroscience</em>，2025。</p>
       </article>
 
       <article class="work-item">
@@ -51,12 +50,12 @@ author_profile: true
 
       <article class="work-item">
         <h3>猕猴全生命周期的脑图谱</h3>
-        <p>基于 1,522 次 MRI 扫描建立规范性资源，支持跨物种脑发育研究。<em>bioRxiv</em>，2024。</p>
+        <p>基于 1,522 次 MRI 扫描建立常模数据资源，支持跨物种脑发育研究。<em>bioRxiv</em>，2024。</p>
       </article>
 
       <article class="work-item">
         <h3>工作记忆活动的皮层层次变化</h3>
-        <p>研究从青春期到成年期前额叶不同皮层层次的活动变化。<em>Journal of Neurophysiology</em>，2023。</p>
+        <p>研究前额叶各皮层层次在青春期至成年期间的活动变化。<em>Journal of Neurophysiology</em>，2023。</p>
       </article>
     </div>
 
