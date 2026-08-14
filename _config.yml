@@ -12,7 +12,7 @@ repository               : "ioqfwfq/ioqfwfq.github.io"
 
 # Cloudflare Web Analytics (cookieless) — paste the beacon token from
 # dash.cloudflare.com → Web Analytics → your site → Snippet
-cloudflare_analytics_token :
+cloudflare_analytics_token : "9c7ce80a31974ff08cac23ad77764eb4"
 
 # SEO Related
 google_site_verification : "PQ3f2uANGh_0bWdf9FERGuRDKvtHePTs4EkbfSf0IvI"
