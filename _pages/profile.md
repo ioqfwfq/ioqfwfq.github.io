@@ -4,6 +4,7 @@ title: "Profile"
 excerpt: "Professional profile of Junda Zhu, Ph.D."
 layout: default
 author_profile: true
+redirect_from: /experience/
 ---
 
 <div class="profile-container">
@@ -21,9 +22,10 @@ author_profile: true
       <p class="profile-meta">Cedars-Sinai Medical Center · 2024–Present · Los Angeles, CA</p>
       <p>Human intracranial research in neurosurgical settings, computational analysis, and cross-disciplinary study design and collaboration.</p>
       <ul>
-        <li>Design and deploy cognitive tasks across bedside, intraoperative, and online settings.</li>
-        <li>Develop analysis pipelines and practical tools for neural data.</li>
-        <li>Coordinate research across clinical, engineering, and scientific teams.</li>
+        <li>Built from scratch a cognitive control task for bedside, intraoperative, and online use (&gt;100 participants); deployed across ~15 bedside patients and ~10 intra-operative sessions.</li>
+        <li>Beta-tested next-generation laminar probes in NHP and human intra-operative settings; provided usability and signal-quality feedback.</li>
+        <li>Authored SOPs and checklists; coordinated IRB submissions and amendments; prepared data briefs for clinical and engineering teams.</li>
+        <li>Standardized Python/MATLAB analysis pipelines; open-sourced a utility package on GitHub for reproducibility.</li>
       </ul>
     </div>
   </section>
@@ -34,6 +36,11 @@ author_profile: true
       <h3>Vanderbilt University</h3>
       <p class="profile-meta">Postdoctoral Fellow, Biomedical Engineering · 2024<br>Graduate Student, Neuroscience · 2021–2024</p>
       <p>Worked across neuroscience and biomedical engineering, studying adolescent cognitive development through neural recordings, neuroimaging, computational analysis, and experimental design.</p>
+      <ul>
+        <li>First-author publications in Nature Neuroscience (2025), iScience (2024), and Journal of Neurophysiology (2023).</li>
+        <li>Developed reproducible analysis pipelines for neuroimaging and electrophysiology data; mentored undergraduate and graduate students on analysis and experiment design.</li>
+        <li>Programmed and operated the Brainsight Vet neuronavigation/robotic guidance system for nonhuman-primate procedures.</li>
+      </ul>
     </div>
 
     <div class="profile-entry">
@@ -44,7 +51,7 @@ author_profile: true
     <div class="profile-entry">
       <h3>Southern University of Science and Technology</h3>
       <p class="profile-meta">Research Assistant, Neurobiology · 2015–2018</p>
-      <p>Research on nervous-system development, molecular modulation, and axon guidance.</p>
+      <p>Research on nervous-system development, molecular modulation, and axon guidance; co-authored publications in PLOS Biology and Nucleic Acids Research.</p>
     </div>
     <div class="profile-entry">
       <h3>University of British Columbia</h3>
@@ -56,6 +63,7 @@ author_profile: true
     <h2>Academic service</h2>
     <div class="profile-entry">
       <p><strong>Editor</strong>, <em>The Innovation Life</em> · 2024–Present</p>
+      <p><strong>Editorial Board Member</strong>, <em>American Journal of Biomedical and Life Sciences</em> · 2024–Present</p>
       <p><strong>Peer reviewer</strong> for <em>Imaging Neuroscience</em>, <em>Experimental Brain Research</em>, <em>Frontiers in Computational Neuroscience</em>, and <em>Journal of Neurophysiology</em>.</p>
       <p><strong>Member</strong>, Society for Neuroscience.</p>
     </div>
