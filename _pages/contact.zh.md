@@ -18,7 +18,7 @@ author_profile: true
       <li>
         <a href="{{ site.author.linkedin | prepend: 'https://www.linkedin.com/in/' }}" target="_blank" rel="noopener">
           <span><i class="fab fa-linkedin-in"></i></span>
-          领英 (LinkedIn)
+          领英（LinkedIn）
         </a>
       </li>
     </ul>
