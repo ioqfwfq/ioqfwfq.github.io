@@ -18,9 +18,9 @@ redirect_from: /zh/experience/
   <section class="profile-section">
     <h2>目前</h2>
     <div class="profile-entry">
-      <h3>博士后研究员，神经外科</h3>
+      <h3>博士后研究员（神经外科）</h3>
       <p class="profile-meta">Cedars-Sinai Medical Center · 2024–至今 · Los Angeles, CA</p>
-      <p>在神经外科环境中进行人类颅内研究，负责计算分析，并参与跨学科研究设计与合作。</p>
+      <p>在神经外科环境中进行人类颅内研究，负责计算分析，并参与跨学科的研究设计与合作。</p>
       <ul>
         <li>设计并开展适用于病房、术中和线上研究的认知任务。</li>
         <li>开发神经数据分析流程与实用工具。</li>
@@ -57,7 +57,7 @@ redirect_from: /zh/experience/
     <h2>学术服务</h2>
     <div class="profile-entry">
       <p><strong>编辑</strong>，<em>The Innovation Life</em> · 2024–至今</p>
-      <p><strong>同行评审</strong>：<em>Imaging Neuroscience</em>、<em>Experimental Brain Research</em>、<em>Frontiers in Computational Neuroscience</em> 与 <em>Journal of Neurophysiology</em>。</p>
+      <p><strong>审稿人</strong>，<em>Imaging Neuroscience</em>、<em>Experimental Brain Research</em>、<em>Frontiers in Computational Neuroscience</em> 与 <em>Journal of Neurophysiology</em>。</p>
       <p><strong>会员</strong>，Society for Neuroscience。</p>
     </div>
   </section>
